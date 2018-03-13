@@ -1,0 +1,52 @@
+apply plugin: 'com.android.application'
+
+
+android {
+    compileSdkVersion 27
+    defaultConfig {
+        applicationId "com.workout.sixpacksabs"
+        minSdkVersion 16
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
+        dataBinding {
+            enabled = true
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    // support dependencies
+    implementation supportDependencies.appCompat
+    implementation supportDependencies.appCompatV4
+    implementation supportDependencies.recyclerview
+    implementation supportDependencies.cardview
+    implementation supportDependencies.design
+    implementation supportDependencies.multidex
+    implementation supportDependencies.constraintLayout
+
+    // Parcing and image loading
+    implementation supportDependencies.gson
+    implementation supportDependencies.stetho
+    implementation supportDependencies.glide
+    implementation supportDependencies.picasso
+    annotationProcessor supportDependencies.glideCompiler
+
+    // Databinding and architecture component
+    implementation supportDependencies.viewModelLiveData
+    annotationProcessor supportDependencies.archCompiler
+    implementation supportDependencies.room
+    annotationProcessor supportDependencies.roomCompiler
+
+
+
+
+}

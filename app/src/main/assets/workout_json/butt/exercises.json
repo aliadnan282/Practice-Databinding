@@ -1,0 +1,634 @@
+{
+  "workout_exercises":[
+    {
+      "icon": "high_knees.png",
+      "exhaust": 2,
+      "animation": [
+        "high_knees_animation_1.png",
+        "high_knees_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "High Knees",
+          "exercise_detail": " <h3>Steps:</h3> <ol> <li> Bring your knees up to waist level and then slowly land on the balls of your feet.</li></ol>\n"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Haut genoux",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Apportez vos genoux jusqu'au niveau de la taille et ensuite attirez lentement les boules de vos pieds. </li> </ol>"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Hohe Knie",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Bring deine Knie bis zum Taillenhöhe und lächle dann langsam auf den Bällen deiner Füße. </li> </ol>\n"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Joelhos altos",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Traga seus joelhos até o nível da cintura e então lentamente pousar nas bolas dos pés. </li> </ol>\n"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Высокие колени",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Поднимите колени до уровня талии, а затем медленно приземляйтесь на шары ваших ног. </li> </ol>"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": " High Knees",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> أحضر ركبتيك إلى مستوى الخصر ثم اربط ببطء على كرات قدميك. </li> </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Levantamiento de Pierna Ponderado",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Lleve las rodillas hasta el nivel de la cintura y luego aterriza lentamente sobre las puntas de los pies. </li> </ol>"
+        }
+      ]
+    },
+    {
+      "icon": "front_and_back_lungs.png",
+      "exhaust": 2,
+      "animation": [
+        "front_and_back_lungs_animation_1.png",
+        "front_and_back_lungs_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Front And Back Lungs",
+          "exercise_detail": "<h3>Steps:</h3> <ol> <li> Stand with your feet hip width apart, take a step forward with your right leg and slowly bend both knees.</li><li>Stand back up, take a step back with your right leg and lung.</li><li> Repeat for 30 seconds and then swith legs.</li></ol>"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Poumons avant et arrière",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Placez-vous à l'écart de votre largeur de la hanche, faites un pas en avant avec votre jambe droite et doublez lentement les deux genoux. </li> <li> Reposez-vous, prenez un Reculez avec votre jambe droite et votre poumon. </li> <li> Répétez pendant 30 secondes et ensuite les jambes swith. </li> </ol>\n"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Vorder- und Rückenlunge",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Stehen Sie mit den Füßen hüftbreit auseinander, machen Sie einen Schritt vorwärts mit Ihrem rechten Bein und beugen Sie langsam beide Knie. </li> <li> Stehen Sie zurück, nehmen Sie ein Schritt zurück mit deinem rechten Bein und Lunge. </li> <li> Wiederholen Sie für 30 Sekunden und dann swith Beine. </li> </ol>\n"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Pulmões frontais e traseiros",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Fique com os pés separados pela largura dos quadris, dê um passo à frente com a perna direita e dobre lentamente os joelhos. </li> <li> Passo para trás com a sua perna direita e pulmão. </li> <li> Repita durante 30 segundos e, em seguida, pernas. </li> </ol>\n"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Передние и задние легкие",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Встаньте на ширину стопы, сделайте шаг вперед правой ногой и медленно согните оба колена. </li> <li> Поднимитесь назад, возьмите Отступите назад с правой ногой и легкими. </li> <li> Повторите упражнение в течение 30 секунд, а затем переведите ноги. </li> </ol>\n"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": " Front And Back Lungs",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> ضع عرض قدمك على قدميك بعيدا، واتخذ خطوة إلى الأمام مع ساقك اليمنى، وثني الركبتين ببطء. </li> <li> احتفظ بنسخة احتياطية خطوة بخطوة مع ساقك اليمنى والرئة. </li> <li> كرر لمدة 30 ثانية ثم سويث الساقين. </li> </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Levantamiento de Pierna Ponderado",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Párese con los pies separados por la cadera, dé un paso adelante con la pierna derecha y doble lentamente las rodillas. </li> <li> Retroceda con la pierna derecha y el pulmón. </li> <li> Repita durante 30 segundos y luego con las patas. </li> </ol>"
+        }
+      ]
+    },
+    {
+      "icon": "back_leg_lift.png",
+      "exhaust": 2,
+      "animation": [
+        "back_leg_lift_animation_1.png",
+        "back_leg_lift_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Back Leg Lift",
+          "exercise_detail": "<h3>Steps:</h3> <ol> <li> Start on all fours and extended one leg behind you.</li><li> Lift the leg to hip level and then slowly lower it back down. </li></ol>\n"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Ascenseur à la jambe arrière",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Commencez à quatre pattes et prolongez-vous une jambe derrière vous. </li> <li> Soulevez la jambe au niveau de la hanche, puis baissez-la légèrement vers l'arrière. </li> </ol>\n"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Zurück Bein Lift",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Beginnen Sie auf allen Vieren und verlängern Sie ein Bein hinter sich. </li> <li> Heben Sie das Bein auf Hüfthöhe und lassen Sie es dann langsam wieder herunter. </li> </ol>\n"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Elevação das pernas traseiras",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Comece de quatro e estenda uma perna atrás de você. </li> <li> Levante a perna até o nível do quadril e depois baixe-a lentamente para baixo. </li> </ol>\n"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Подъем задних ног",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Начните на четвереньках и вытяните одну ногу позади вас. </li> <li> Поднимите ногу до бедра и медленно опустите ее вниз. </li> </ol>\n"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": " Back Leg Lift",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> ابدأ على جميع الأربعة وساعدت ساق واحدة خلفك. </li> <li> رفع الساق إلى مستوى الورك ثم خفضه ببطء. </li> </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Levantamiento de Pierna Ponderado",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Comience a cuatro patas y extienda una pierna detrás de usted. </li> <li> Levante la pierna hasta el nivel de la cadera y luego bájela lentamente hacia abajo. </li> </ol>"
+        }
+      ]
+    },
+    {
+      "icon": "romanian_deadlift.png",
+      "exhaust": 2,
+      "animation": [
+        "romanian_deadlift_animation_1.png",
+        "romanian_deadlift_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Romanian Deadlift",
+          "exercise_detail": "<h3>Steps:</h3> <ol> <li> Grab a set of dumbbells, push your hips back and lower your porso, until it's parallel to the floor.</li></ol>\n"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Deadlift roumain",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Prenez un ensemble d'haltères, enfoncez vos hanches et abaissez votre porso, jusqu'à ce qu'il soit parallèle au plancher. </li> </ol>\n"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Rumänischer Deadlift",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Erfassen Sie einen Satz Hanteln, schieben Sie Ihre Hüften zurück und senken Sie Ihren Porso, bis er parallel zum Boden ist. </li> </ol>\n"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Romanian Deadlift",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Agarre um conjunto de halteres, empurre os quadris para trás e abaixe o porso, até ficar paralelo ao chão. </li>\n"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Румынская тяга",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Возьмите набор гантелей, отодвиньте бедра назад и опустите свое плечо, пока оно не будет параллельно полу. </li> </ol>\n"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Romanian Deadlift",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> يمكنك الاستيلاء على مجموعة من الدمبل، ودفع الوركين مرة أخرى وخفض بورسو، حتى تكون موازية للأرض. </li> </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Levantamiento de Pierna Ponderado",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Coge un conjunto de mancuernas, empuja tus caderas hacia atrás y baja el porso, hasta que esté paralelo al suelo. </li>"
+        }
+      ]
+    },
+    {
+      "icon": "run_in_place.png",
+      "exhaust": 2,
+      "animation": [
+        "run_in_place_animation_1.png",
+        "run_in_place_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Run In Place",
+          "exercise_detail": "<h3>Steps:</h3><ol>  <li> Stand straight, face forward and open your chest.</li><li> Pull your knees up and slowly land on the balls of your feet.</ol>\n"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Courir en place",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Placez-vous droit, faites face vers l'avant et ouvrez votre coffre. </li> <li> Tirez vos genoux vers le haut et descendez lentement sur les boules de vos pieds. </ol>\n"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Führen Sie an Ort und Stelle",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Stehen Sie gerade, vorwärts und öffnen Sie Ihre Brust. </li> <li> Ziehen Sie die Knie hoch und landen langsam auf den Bällen der Füße. </ol>\n"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Corra no lugar",
+          "exercise_detail": "<h3> Etapas: </h3> <ol> <li> Fique de frente, abra a cabeça e abra o peito. </li> <li> Puxe os joelhos para cima e lentamente caia sobre as bolas dos pés.\n"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Запуск на месте",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Встаньте прямо, лицом вперед и откройте сундук. </li> <li> Поднимите колени и медленно приземляйтесь на шарах ваших ног. </ol>\n"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Run In Place",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> ضعي وجهك مستقيما وجها لوجه وافتح صدرك. </li> <li> اسحب ركبتيك وأبطأ ببطء على كرات قدميك. </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Levantamiento de Pierna Ponderado",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Manténgase recto, con la cara hacia delante y abra el pecho. </li> <li> Tire de las rodillas y aterrice lentamente en las puntas de los pies."
+        }
+      ]
+    },
+    {
+      "icon": "situp_with_knee_raises.png",
+      "exhaust": 2,
+      "animation": [
+        "situp_with_knee_raises_animation_1.png",
+        "situp_with_knee_raises_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Sit Up with Knee Raises",
+          "exercise_detail": "<h3>Steps:</h3><ol> <li> Place a box or a step in front of you and stand up straight. </li><li>Step onto the box with your left leg and drive your right knee up.</li><li>Step down, repeat for 30 seconds and switch legs.</li></ol>\n"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Mise en place avec soulèvement du genou",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Placez une case ou une étape en face de vous et maintenez-vous droit. </li> <li> Étape sur la case avec votre jambe gauche et dirigez votre genou droit vers le haut. </li> <li> Descendez, répétez pendant 30 secondes et déplacez les jambes. </li> </ol>\n"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Einrichten mit Knie hebt an",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Lege eine Schachtel oder einen Schritt vor dich und stehe gerade auf. </li> <li> Treten Sie mit dem linken Bein auf die Schachtel und fahren Sie mit dem rechten Knie. </li> <li> Starten Sie nach unten, wiederholen Sie für 30 Sekunden und schalten Sie die Beine. </li> </ol>\n"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Configurar com levantamentos de joelho",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Coloque uma caixa ou um passo à sua frente e levante-se em linha reta. </li> <li> Passo para a caixa com a perna esquerda e empurre o joelho direito. </li> <li> Abaixe, repita por 30 segundos e troque de pernas. </li>\n"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Настроить с подтягивания колена",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Поместите ящик или шаг перед собой и встаньте прямо. </li> <li> Подойдите к коробке левой ногой и двигайте правым коленом. </li> <li> Снижайтесь, повторяйте 30 секунд и переключайте ноги. </li> </ol>\n"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Sit Up with Knee Raises",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> ضع مربعا أو خطوة أمامك واقف بشكل مستقيم. </li> <li> انتقل إلى المربع باستخدام ساقك اليسرى وحرك ركبتك اليمنى. </li> <li> التراجع، كرر لمدة 30 ثانية، وبدل الساقين. </li> </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Levantamiento de Pierna Ponderado",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Coloque una caja o un paso delante de usted y de pie derecho. </li> <li> Acércate a la caja con la pierna izquierda y conduce la rodilla derecha hacia arriba. </li> <li> Baja, repite 30 segundos y cambia de pierna."
+        }
+      ]
+    },
+    {
+      "icon": "wall_bridge.png",
+      "exhaust": 2,
+      "animation": [
+        "wall_bridge_animation_1.png",
+        "wall_bridge_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Wall Bridge",
+          "exercise_detail": "<h3>Steps:</h3><ol> <li> Lie on your back with arms by your sides and plant the soles of your feet on a wall. </li><li>Squeeze your glutes and raise your hips as hight as you can.</li><li> Return to the straighting position and repeat for 40 seconds.</li> </ol>\n"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Pont mural",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Allongez-vous sur le dos avec des bras par vos côtés et plantez les semelles de vos pieds sur un mur. </li> <li> Pressez vos glutes et augmentez vos hanches aussi longtemps que vous le pouvez. </li> <li> Retournez à la position droite et répétez pendant 40 secondes. </li> </ol>\n"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Wandbrücke",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Lüge auf dem Rücken mit den Armen an deinen Seiten und pflanze die Sohlen deiner Füße an einer Wand. </li> <li> Squeeze your glutes und hebe deine Hüften so hight wie du kannst. </li> <li> Rückkehr zur geraden Position und wiederhole für 40 Sekunden. </li> </ol>\n"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Ponte de parede",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Deite-se de costas com os braços ao seu lado e plante as solas dos pés na parede. </li> <li> Aperte os glúteos e aumente os quadris o mais alto que puder. </li> <li> Volte à posição de endireitamento e repita durante 40 segundos.\n"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Мост стены",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Ложитесь на спину руками с помощью боков и сажайте ступни ног на стену. </li> <li> Сожмите ягодицы и поднимите свои бедра как можно выше. </li> <li> Вернитесь в исходное положение и повторяйте в течение 40 секунд. </li> </ol>\n"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Wall Bridge",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> استلقي على ظهرك بأذرع من جانبك وقم بتصنيع باطن قدميك على الحائط. </li> <li> اضغط على غلوتيس وارفع الوركين على قدر ما تستطيع. </li> <li> ارجع إلى الموضع المستقيم وأكرر لمدة 40 ثانية. </li> </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Levantamiento de Pierna Ponderado",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Acuéstese sobre su espalda con los brazos a los lados y plante las plantas de los pies en una pared. </li> <li> Apriete los glúteos y levante las caderas lo más alto que pueda. </li> <li> Vuelva a la posición de enderezamiento y repita durante 40 segundos."
+        }
+      ]
+    },
+    {
+      "icon": "rolling_squat.png",
+      "exhaust": 2,
+      "animation": [
+        "rolling_squat_animation_1.png",
+        "rolling_squat_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Rolling Squat",
+          "exercise_detail": "<h3>Steps:</h3><ol>  <li> Lowering your hips until the glutes touch the mat, and roll back.</li><li>Roll forward into the squat position and stand up.</li></ol>\n"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Rolling Squat",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Descente de vos hanches jusqu'à ce que les glutes touchent le tapis et roulent. </li> <li> Roulez vers l'avant dans la position de squat et lève-toi. </li> </ol>\n"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Rolling Squat",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Senkung deiner Hüften, bis die Gesichter die Matte berühren und zurückrollen. </li> <li> Vorwärts in die Kniebeugenposition rollen und aufstehen. </li> </ol>\n"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Squat Rolling",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Abaixe os quadris até que os glúteos toquem na esteira e role para trás. </li> <li> </ol>\n"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Роллинг приседания",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Понижайте бедра, пока ягодицы не коснутся мата и не откатываются назад. </li> <li> Направляйтесь в положение приседа и вставайте. </li> </ol>\n"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": " Rolling Squat",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> خفض الوركين حتى تلمس غلوتيس الحشوة، ثم تتراجع. </li> <li> ارجع إلى وضع القرفصاء والوقوف. </li> </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Levantamiento de Pierna Ponderado",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Bajar las caderas hasta que los glúteos toquen la estera y retroceder. </li> <li> Avanzar en la posición de cuclillas y ponerse de pie. </ol>"
+        }
+      ]
+    },
+    {
+      "icon": "sumo_squat.png",
+      "exhaust": 2,
+      "animation": [
+        "sumo_squat_animation_1.png",
+        "sumo_squat_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Sumo Squat",
+          "exercise_detail": "<h3>Steps:</h3><ol> <li> Stand with your feet in a wide stance and your toes pointing out to the sides.</li><li> Bend your knees, press your hips back and once your thighs are parallel to the floor, come back up and repeat.</li></ol>\n"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Sumo Squat",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Placez-vous avec vos pieds dans une position large et vos orteils indiquant les côtés. </li> <li> Pliez vos genoux, appuyez de nouveau sur vos hanches et une fois que vous avez Les cuisses sont parallèles au sol, reviens et répète. </li> </ol>\n"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Sumo Squat",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Stehen Sie mit Ihren Füßen in einer weiten Haltung und Ihre Zehen zeigen auf die Seiten. </li> <li> Biegen Sie Ihre Knie, drücken Sie Ihre Hüften zurück und einmal Ihr Oberschenkel sind parallel zum Boden, kommen wieder auf und wiederholen. </li> </ol>\n"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Sumo Squat",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Fique de pé com os pés bem abertos e os dedos dos pés apontando para os lados. </li> <li> Dobre os joelhos e aperte os quadris para trás. Coxas são paralelas ao chão, voltar e repetir. </li> </ol>\n"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Сумо приседания",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Встаньте ногами в широкой стойке, а ваши пальцы ног направлены в стороны. </li> <li> Согните ноги в коленях, прижмите бедра и Бедра параллельны полу, возвращаются и повторяются. </li> </ol>\n"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Sumo Squat",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> قف مع قدميك في موقف واسع وأصابع قدميك التي تشير إلى الجانبين. </li> <li> ثني ركبتيك، اضغط على الوركين مرة أخرى ومرة ​​واحدة الفخذين موازية للأرض، أعود وكرر. </li> </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Levantamiento de Pierna Ponderado",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Párese con los pies en una posición amplia y los dedos de los pies apuntando hacia los lados. </li> <li> Doble las rodillas, Los muslos son paralelos al piso, vuelve a subir y repite. </li> </ol>"
+        }
+      ]
+    },
+    {
+      "icon": "hamstring_curl.png",
+      "exhaust": 2,
+      "animation": [
+        "hamstring_curl_animation_1.png",
+        "hamstring_curl_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Hamstring Curl",
+          "exercise_detail": "<h3>Steps:</h3><ol> <li> Lie on your stomach with your legs fully extended, chest up and your hands under your chest.</li><li>Bend your knees, curl your legs up and squeeze the glutes.</li></ol>\n"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Curl d'ischio-jambiers",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Allongez-vous sur le ventre avec vos jambes complètement étendues, la poitrine et vos mains sous votre poitrine. </li> <li> Pliez vos genoux, roulez vos jambes et Serrer les limaces. </li> </ol>\n"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Hamstring Curl",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Liegen Sie auf dem Bauch mit den Beinen voll ausgezogen, Brust und Ihre Hände unter der Brust. </li> <li> Biegen Sie Ihre Knie, kräuseln Sie Ihre Beine und Drücken Sie die Gesäßschläge. </li> </ol>\n"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Curl de isquiotibiais",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Deite de bruços com as pernas completamente estendidas, o peito para cima e as mãos sob o peito. </li> <li> Dobre os joelhos, enrole as pernas e Espremer os glúteos. </li> </ol>\n"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Кровопускание сухожилий",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Ложитесь на живот, полностью выдвинув ноги, приподняв грудь, и руки под грудью. </li> <li> Согните ноги в коленях, поднимите ноги вверх и Сжимайте ягодицы. </li> </ol>\n"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Hamstring Curl",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> ضعي على بطنك وساقيك ممتدتين بالكامل وصدرين يديك تحت صدرك. </li> <li> ثني ركبتيك، اضغط على غلوتيس. </li> </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Levantamiento de Pierna Ponderado",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Acuéstese sobre el estómago con las piernas completamente extendidas, el pecho hacia arriba y las manos bajo el pecho. </li> <li> Doblar las rodillas, Apriete los glúteos. </li> </ol>"
+        }
+      ]
+    },
+    {
+      "icon": "heisman.png",
+      "exhaust": 2,
+      "animation": [
+        "heisman_animation_1.png",
+        "heisman_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Heisman",
+          "exercise_detail": "<h3>Steps:</h3><ol> <li> Stand with yor knees slightly bent, jump onto your right foot and pull your left knee up and toward your right shoulder.</li><li> Jump onto your left foot and pull your right knee yp and toward your left shoulder.</li></ol>\n"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Heisman",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Placez-vous avec vos genoux légèrement courbés, sautez sur votre pied droit et tirez votre genou gauche vers l'épaule droite. </li> <li> Sautez sur votre gauche Et tirez votre genou droit vers l'épaule gauche. </li> </ol>\n"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Heisman",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Stehen Sie mit den Knien leicht gebeugt, springen Sie auf den rechten Fuß und ziehen Sie Ihr linkes Knie nach oben und auf die rechte Schulter. </li> <li> Springe auf die linke Seite Fuß und ziehe dein rechtes Knie yp und auf deine linke Schulter. </li> </ol>\n"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Heisman",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Fique com os joelhos ligeiramente dobrados, salte sobre o pé direito e puxe o joelho esquerdo para cima e em direção ao ombro direito. </li> <li> Salte para a esquerda Pé e puxe o seu joelho direito yp e em direção ao seu ombro esquerdo. </li> </ol>\n"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Heisman",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Встаньте со слегка согнутыми коленями, прыгайте на правую ногу и тяните левое колено вверх и к правому плечу. </li> <li> Прыгайте налево Ноги и тянуть правое колено yp и к левому плечу. </li> </ol>\n"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Heisman",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> ضعي ركبتي يور قليلا، ثم اقفز على قدمك اليمنى وسحب ركبتك اليسرى نحو الكتف الأيمن. </li> <li> اقفز إلى يسارك قدم وسحب ركبتك اليمنى نحو الكتف الأيسر. </li> </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Levantamiento de Pierna Ponderado",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Párese con las rodillas ligeramente dobladas, salte sobre su pie derecho y tire de la rodilla izquierda hacia arriba y hacia el hombro derecho. </li> <li> Salte a la izquierda Pie y tire de su rodilla derecha yp y hacia su hombro izquierdo. </li> </ol>"
+        }
+      ]
+    },
+    {
+      "icon": "wall_sit.png",
+      "exhaust": 2,
+      "animation": [
+        "wall_sit_animation_1.png",
+        "wall_sit_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Wall Sit",
+          "exercise_detail": "<h3>Steps:</h3> <ol> <li> Start with your back against a wall, your thighs parallel to the floor and left your heels off the floor.</li></ol>\n"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Ensemble mural",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Commence par le dos contre un mur, vos cuisses parallèles au sol et laissent vos talons hors du sol. </li> </ol>\n"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Wandset",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Beginnen Sie mit dem Rücken gegen eine Wand, Ihre Oberschenkel parallel zum Boden und lassen Sie Ihre Fersen aus dem Boden. </li> </ol>\n"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Conjunto de Parede",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Comece com as costas contra a parede, as coxas paralelas ao chão e deixe os calcanhares para fora do chão. </li> </ol>\n"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Настенный набор",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Начните спиной к стене, бедра должны быть параллельны полу и опуститесь на пол. </li> </ol>\n"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Wall Sit",
+          "exercise_detail": "<h3> الخطوات التالية: </h3> <ol> <li> ابدأ بظهرك على الحائط، وفخذيك موازية للأرض وأترك ​​كعبك بعيدا عن الأرض. </li> </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Levantamiento de Pierna Ponderado",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Empiece con la espalda contra una pared, con los muslos paralelos al suelo y los talones fuera del suelo. </li> </ol>"
+        }
+      ]
+    },
+    {
+      "icon": "gate_swing.png",
+      "exhaust": 2,
+      "animation": [
+        "gate_swing_animation_1.png",
+        "gate_swing_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Gate Swing",
+          "exercise_detail": "<h3>Steps:</h3> <ol> <li> Stand with your feet in a wide stance and your toes pointing out to the sides.</li><li> Bend your knees, press your hips back and once your thighs are parallel to the floor, come back up and repeat.</li> <li> Jump up, crossing your legs. Jump again and return to starting position.</li> </ol> \n"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Swing de porte",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Placez-vous avec vos pieds dans une position large et vos orteils indiquant les côtés. </li> <li> Pliez vos genoux, appuyez de nouveau sur vos hanches et une fois que vous avez Les cuisses sont parallèles au sol, remontez et répétez. </li> <li> Sautez, croisé les jambes. Retournez à nouveau et revenez à la position de départ. </li> </ol>\n"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Torschwung",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Stehen Sie mit Ihren Füßen in einer weiten Haltung und Ihre Zehen zeigen auf die Seiten. </li> <li> Biegen Sie Ihre Knie, drücken Sie Ihre Hüften zurück und einmal Ihr Oberschenkel sind parallel zum Boden, kommen wieder auf und wiederholen. </li> <li> Springe auf und überquere deine Beine. Springe wieder und kehr zur Ausgangsposition zurück. </li> </ol>\n"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Balanço de portão",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Fique de pé com os pés bem abertos e os dedos dos pés apontando para os lados. </li> <li> Dobre os joelhos e aperte os quadris para trás. Coxas são paralelas ao chão, volte e repita. </li> <li> Salte para cima, cruzando as pernas. Salte novamente e volte à posição inicial. </li> </ol>\n"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Вращение ворот",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Встаньте ногами в широкой стойке, а ваши пальцы ног направлены в стороны. </li> <li> Согните ноги в коленях, прижмите бедра и Бедра параллельны полу, возвращаются и повторяются. </li> <li> Подпрыгните, скрестив ноги. Повторите прыжок и вернитесь в исходное положение. </li> </ol>\n"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Gate Swing",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> قف مع قدميك في موقف واسع وأصابع قدميك التي تشير إلى الجانبين. </li> <li> ثني ركبتيك، اضغط على الوركين مرة أخرى ومرة ​​واحدة الفخذين موازية للأرض، وتعود وتكرر. </li> <li> قفزة، عبور ساقيك. يمكنك الانتقال مرة أخرى والعودة إلى موضع البدء. </li> </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Levantamiento de Pierna Ponderado",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Párese con los pies en una posición amplia y los dedos de los pies apuntando hacia los lados. </li> <li> Doble las rodillas, Los muslos son paralelos al suelo, vuelve a subir y repite. </li> <li> Salta, cruza las piernas. Saltar de nuevo y volver a la posición inicial. </li> </ol>"
+        }
+      ]
+    },
+    {
+      "icon": "quick_feet.png",
+      "exhaust": 2,
+      "animation": [
+        "quick_feet_animation_1.png",
+        "quick_feet_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Quick Feet",
+          "exercise_detail": "<h3>Steps:</h3> <ol> <li> Start in an athletic position with your feet shoulder width apart and your hips low.</li><li> Run in place quickly and push through the balls of your feet.</li></ol>\n"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Quick Feet",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Commencez dans une position athlétique avec votre largeur des épaules des pieds et vos hanches bas. </li> <li> Placez-vous en place rapidement et appuyez sur les boules de vos pieds . </li> </ol>"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Schnelle Füße",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Starten Sie in einer athletischen Position mit Ihren Füßen Schulterbreite auseinander und Ihre Hüften niedrig. </li> <li> Führen Sie schnell ein und schieben Sie durch die Bälle der Füße . </li> </ol>"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Pés rápidos",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Comece em uma posição atlética com os pés separados pela largura dos ombros e os quadris baixos. </li> <li> Execute rapidamente e empurre as bolas dos pés . </li> </ol>"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Быстрые футы",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Начните в спортивной позиции, расставив ноги на ширине плеч и приподняв нижнюю часть бедер. </li> <li> Бегите на место быстро и пробивайте шарики ног . </li> </ol>"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Quick Feet",
+          "exercise_detail": "<h3> الخطوات التالية: </h3> <ol> <li> ابدأ في وضع رياضي مع عرض قدميك عن القدمين وخفض الوركين. </li> <li> قم بتشغيله بسرعة وادفع كرات القدم . </li> </ol"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Levantamiento de Pierna Ponderado",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Comience en una posición atlética con los pies separados por los hombros y las caderas bajas. </li> <li> Ejecútese rápidamente y empuje las bolas de los pies . </li> </ol>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "plan_categories": [
+    {
+      "id": 1,
+      "type": "BELLY_FAT",
+      "title": "Beginner",
+      "image": "beginner.png"
+    },
+    {
+      "id": 2,
+      "type": "BELLY_FAT",
+      "title": "Intermediate",
+      "image": "beginner.png"
+    },
+    {
+      "id": 3,
+      "type": "BELLY_FAT",
+      "title": "Expert",
+      "image": "beginner.png"
+    },
+    {
+      "id": 4,
+      "type": "HARD_ABS",
+      "title": "Beginner",
+      "image": "beginner.png"
+    },
+    {
+      "id": 5,
+      "type": "HARD_ABS",
+      "title": "Intermediate",
+      "image": "beginner.png"
+    },
+    {
+      "id": 6,
+      "type": "HARD_ABS",
+      "title": "Expert",
+      "image": "beginner.png"
+    },
+    {
+      "id": 7,
+      "type": "PERFECT_ABS",
+      "title": "Beginner",
+      "image": "beginner.png"
+    },
+    {
+      "id": 8,
+      "type": "PERFECT_ABS",
+      "title": "Intermediate",
+      "image": "beginner.png"
+    },
+    {
+      "id": 9,
+      "type": "PERFECT_ABS",
+      "title": "Expert",
+      "image": "beginner.png"
+    }
+  ]
+}

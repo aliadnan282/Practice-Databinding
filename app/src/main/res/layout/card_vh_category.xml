@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="category"
+            type="com.workout.sixpacksabs.data.entity.Category" />
+
+        <variable
+            name="adapter"
+            type="com.workout.sixpacksabs.view.adapter.CategoryAdapter" />
+
+     <!--   <variable
+            android:onClick="@{() -> handler.onCategoryClicked(category)}"
+
+            name="handler"
+            type="com.workout.sixpackabs.binder.MyHandler" />-->
+    </data>
+
+    <android.support.v7.widget.CardView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardUseCompatPadding="true">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            tools:layout_editor_absoluteY="81dp">
+            <!--android:onClick="@{handler::onClickTextShow}"-->
+
+            <ImageView
+                android:id="@+id/iv_category"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_150dp"
+                android:contentDescription="@string/text_nstruction"
+                android:scaleType="fitCenter"
+                app:imageUrl="@{category.categoryImage}"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:src="@drawable/ic_card_abs" />
+
+            <TextView
+                android:id="@+id/tv_instruction"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/round_textview"
+                android:contentDescription="@string/text_nstruction"
+                android:padding="@dimen/_8dp"
+                android:text="@string/text_nstruction"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button"
+                app:layout_constraintEnd_toStartOf="@+id/tv_start"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintHorizontal_chainStyle="spread_inside"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/iv_category"
+                tools:text="@string/text_nstruction" />
+
+            <TextView
+                android:id="@+id/tv_start"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/round_textview_start"
+                android:contentDescription="@string/text_start"
+                android:onClick="@{(theView) -> adapter.onCategoryClicked(theView,category)}"
+                android:padding="@dimen/_8dp"
+                android:text="@string/text_start"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/tv_instruction"
+                app:layout_constraintTop_toBottomOf="@+id/iv_category"
+                tools:text="@string/text_start" />
+
+            <TextView
+                android:id="@+id/category_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@{category.categoryName}"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button"
+                android:textColor="@android:color/white"
+                app:layout_constraintBottom_toBottomOf="@+id/iv_category"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                tools:text="@tools:sample/first_names" />
+        </android.support.constraint.ConstraintLayout>
+    </android.support.v7.widget.CardView>
+</layout>

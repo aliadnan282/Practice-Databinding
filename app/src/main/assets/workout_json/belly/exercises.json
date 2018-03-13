@@ -1,0 +1,634 @@
+{
+  "workout_exercises": [
+    {
+      "icon": "cross_body_crunch.png",
+      "exhaust": 2,
+      "animation": [
+        "cross_body_crunch_animation_1.png",
+        "cross_body_crunch_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Cross body crunch",
+          "exercise_detail": "<h3>Steps:</h3> <ol> <li>Lie flat on your back and bend your knees about 60 degrees. <li>Keep your feet flat on the floor and place your hands loosely behind your head. This will be your starting position. <li>Now curl up and bring your right elbow and shoulder across your body while bring your left knee in toward your left shoulder at the same time. Reach with your elbow and try to touch your knee. Exhale as you perform this movement. Tip: Try to bring your shoulder up towards your knee rather than just your elbow and remember that the key is to contract the abs as you perform the movement; not just to move the elbow. <li>Now go back down to the starting position as you inhale and repeat with the left elbow and the right knee. <li>Continue alternating in this manner until all prescribed repetitions are done. </ol> <h3>Variations:</h3> You can also do all of your repetitions for one side and then switch to the other side."
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Croix, corps, croquer",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Allongez-vous sur le dos et pliez les genoux d'environ 60 degrés. <li> Gardez vos pieds à plat sur le sol et placez vos mains lâchement derrière votre tête. Ce sera votre position de départ. <li> Enroulez-vous maintenant et portez votre coude et votre épaule droit sur votre corps tout en amenant votre genou gauche vers votre épaule gauche en même temps. Atteignez votre coude et essayez de toucher votre genou. Expirez pendant que vous effectuez ce mouvement. Astuce: Essayez d'amener votre épaule vers votre genou plutôt que juste votre coude et n'oubliez pas que la clé est de contracter les abdominaux que vous effectuez le mouvement, Pas seulement pour déplacer le coude. <li> Revenez maintenant à la position de départ lorsque vous inspirez et répétez avec le coude gauche et le genou droit. <li> Continuez alternativement de cette façon jusqu'à ce que toutes les répétitions prescrites soient effectuées. </ol> <h3> Variations: </h3> Vous pouvez également faire toutes vos répétitions pour un côté et passer ensuite à l'autre côté."
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Kreuz Körper Crunch",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Lie flach auf dem Rücken und beugen Sie Ihre Knie etwa 60 Grad. <li> Halten Sie Ihre Füße flach auf dem Boden und legen Sie Ihre Hände lose hinter Ihrem Kopf. Dies ist Ihre Ausgangsposition. <li> Nun locken Sie und bringen Sie Ihren rechten Ellenbogen und Schulter über Ihren Körper, während Sie Ihr linkes Knie in Richtung Ihrer linken Schulter zur gleichen Zeit. Reichweite mit dem Ellenbogen und versuchen, Ihr Knie zu berühren. Ausatmen, wie Sie diese Bewegung ausführen. Tipp: Versuchen Sie, Ihre Schulter bis auf Ihr Knie statt nur Ihre Ellbogen zu bringen und denken Sie daran, dass der Schlüssel ist, um die abs, wie Sie die Bewegung durchführen, Nicht nur um den Ellbogen zu bewegen. <li> Nun geh zurück zur Ausgangsposition, während du einatmest und wiederholst mit dem linken Ellenbogen und dem rechten Knie. <li> Fahren Sie abwechselnd so fort, bis alle vorgeschriebenen Wiederholungen durchgeführt werden. </ol> <h3> Variationen: </h3> Sie können auch alle Wiederholungen für eine Seite durchführen und dann auf die andere Seite umschalten."
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Corpo transversal Crunch",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Deite-se de costas e dobre os joelhos cerca de 60 graus.<li> Mantenha os pés no chão e coloque as mãos debaixo da cabeça. Seja a sua posição inicial.<li> Agora curve-se e traga seu cotovelo e ombro direito através de seu corpo enquanto leva seu joelho esquerdo em direção ao seu ombro esquerdo ao mesmo tempo.Coloque seu cotovelo e tente tocar seu joelho.Expira como você Dê uma olhada em seu ombro para cima em direção ao seu joelho em vez de apenas seu cotovelo e lembre-se que a chave é contrair o abdômen como você executa o movimento, não apenas para mover o cotovelo. Para a posição inicial à medida que você inspira e repete com o cotovelo esquerdo eo joelho direito.<li> Continue alternando desta maneira até que todas as repetições prescritas sejam feitas.</li></ol> <h3> Variações: </h3> Você também pode fazer Todas as suas repetições para um lado e depois mudar para o outro lado."
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Крест Crunch тело",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Лягте на спину и согните колени около 60 градусов <li> Держите ноги на полу и положите руки свободно за голову это будет.. быть ваша стартовая позиция. <li> Теперь свернуться и привести свой правый локоть и плечо через ваше тело в то время как взять с собой левое колено в сторону левого плеча в то же время. Reach с локтя и попытайтесь коснуться колена. Выдохните, как вы выполнить это движение. Совет:. Попробуйте привести плечо вверх к вашим коленом, а не только ваш локоть и помните, что ключ к договору абс, как вы выполняете движение, а не просто, чтобы переместить локоть <li> Теперь вернитесь вниз в исходное положение, как вы вдыхаете и повторите с левым локтем и правым коленом <li> Продолжайте чередуя таким образом, пока все предписанные повторы не выполняются </li></ol> <h3> Варианты:.. </h3> вы можете также сделать все ваши повторений для одной стороны, а затем перейти на другую сторону ."
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Cross body crunch",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> استلقي على ظهرك وثني ركبتيك حوالي 60 درجة. <li> حافظ على قدميك مسطحة على الأرض ووضع يديك فضفاضة وراء رأسك. وسوف يكون هذا الموقف البداية. <li> الآن تجعد و تجلب الكوع الأيمن و الكتف عبر جسمك بينما تجلب ركبتك اليسرى في اتجاه كتفك الأيسر في نفس الوقت. الوصول مع المرفق الخاص بك ومحاولة لمس الركبة. الزفير وأنت تؤدي هذه الحركة. نصيحة: في محاولة لتحقيق كتفك نحو ركبتك بدلا من مجرد الكوع الخاص بك وتذكر أن المفتاح هو التعاقد على القيمة المطلقة كما كنت أداء الحركة. ليس فقط لتحريك الكوع. <li> الآن أعود إلى الوراء إلى موضع الانطلاق كما كنت يستنشق وتكرار مع الكوع الأيسر والركبة اليمنى. <li> استمر بالتناوب بهذه الطريقة حتى تتم جميع عمليات التكرار المقررة. </ol> <h3> الاختلافات: </h3> يمكنك أيضا إجراء جميع عمليات التكرار لجانب واحد ثم التبديل إلى الجانب الآخر."
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Cruce de cuerpo",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Acuéstese de espaldas y doble las rodillas unos 60 grados. <li> Mantenga los pies planos en el suelo y coloque las manos sueltas detrás de su cabeza. Esta será su posición inicial. <li> Ahora acurrucarse y llevar su codo y hombro derecho a través de su cuerpo mientras que la rodilla izquierda hacia el hombro izquierdo al mismo tiempo. Alcance con su codo y trate de tocar su rodilla. Exhale mientras realiza este movimiento. Consejo: Trate de llevar su hombro hacia arriba en dirección a su rodilla en lugar de sólo su codo y recuerde que la clave es contraer los abdominales mientras realiza el movimiento; No sólo para mover el codo. <li> Ahora regresa a la posición inicial mientras inhala y repite con el codo izquierdo y la rodilla derecha. <li> Continúe alternando de esta manera hasta que se realicen todas las repeticiones prescritas. </ H> <h3> Variaciones: </h3> También puede hacer todas las repeticiones para un lado y luego cambiar al otro lado."
+        }
+      ]
+    },
+    {
+      "icon": "bench_crunches.png",
+      "exhaust": 2,
+      "animation": [
+        "bench_crunches_animation_1.png",
+        "bench_crunches_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Bench crunches",
+          "exercise_detail": "<h3>Steps:</h3> <ol> <li>Lie flat on your back with your feet flat on the ground, or resting on a bench with your knees bent at a 90 degree angle. If you are resting your feet on a bench, place them three to four inches apart and point your toes inward so they touch. <li>Now place your hands lightly on either side of your head keeping your elbows in. Tip: Don't lock your fingers behind your head. <li>While pushing the small of your back down in the floor to better isolate your abdominal muscles, begin to roll your shoulders off the floor. <li>Continue to push down as hard as you can with your lower back as you contract your abdominals and exhale. Your shoulders should come up off the floor only about four inches, and your lower back should remain on the floor. At the top of the movement, contract your abdominals hard and keep the contraction for a second. Tip: Focus on slow, controlled movement - don't cheat yourself by using momentum. <li>After the one second contraction, begin to come down slowly again to the starting position as you inhale. <li>Repeat for the recommended amount of repetitions. </ol> <h3>Variations:</h3> There are many variations for the crunch. You can perform the exercise with weights, or on top of an exercise ball or on a decline bench."
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Benchs de banc",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Allongez-vous sur le dos, les pieds à plat sur le sol ou sur un banc avec les genoux pliés à un angle de 90 degrés. Si vous reposez vos pieds sur un banc, placez-les de trois à quatre pouces de distance et pointez vos orteils vers l'intérieur afin qu'ils touchent. <li> Maintenant, placez vos mains légèrement de chaque côté de votre tête en gardant vos coudes dedans. Astuce: Ne pas verrouiller vos doigts derrière votre tête. <li> Tout en poussant la petite de votre dos dans le sol pour mieux isoler vos muscles abdominaux, commencez à rouler vos épaules sur le sol. <li> Continuez à pousser aussi bas que vous pouvez avec votre bas du dos comme vous contracter vos abdominaux et expirez. Vos épaules devraient monter du sol seulement environ quatre pouces, et votre bas du dos devrait rester sur le plancher. Au sommet du mouvement, contracter vos abdominaux dur et garder la contraction pour une seconde. Astuce: Concentrez-vous sur le mouvement lent et contrôlé - ne vous trichez pas en utilisant l'élan. <li> Après la contraction d'une seconde, commencez à descendre lentement à nouveau jusqu'à la position de départ lorsque vous inspirez. <li> Répétez l'opération pour la quantité recommandée de répétitions. </ol> <h3> Variations: </h3> Il existe de nombreuses variantes pour le crunch. Vous pouvez effectuer l'exercice avec des poids, ou sur un ballon d'exercice ou sur un banc de déclin."
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Bench Crunches",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Lie flach auf dem Rücken mit den Füßen flach auf dem Boden oder ruht auf einer Bank mit gebeugten Knien in einem 90 ° -Winkel. Wenn Sie Ihre Füße auf einer Bank ruhen, legen Sie sie drei bis vier Zentimeter auseinander und zeigen Sie Ihre Zehen nach innen, so dass sie berühren. <li> Nun legen Sie Ihre Hände leicht auf beiden Seiten des Kopfes halten Ihre Ellenbogen in. Tipp: Verriegeln Sie nicht Ihre Finger hinter dem Kopf. <li> Während Sie den kleinen Rücken in den Boden drücken, um Ihre Bauchmuskulatur besser zu isolieren, beginnen Sie, Ihre Schultern vom Boden zu rollen. <li> Weiter drücken Sie so hart wie Sie können mit Ihrem unteren Rücken, wie Sie Ihre Bauchmuskeln und ausatmen. Ihre Schultern sollten aus dem Boden nur etwa vier Zentimeter, und Ihre unteren Rücken sollte auf dem Boden bleiben. An der Spitze der Bewegung, Vertrag Ihre Bauchmuskeln hart und halten die Kontraktion für eine Sekunde. Tipp: Konzentrieren Sie sich auf langsame, kontrollierte Bewegung - nicht betrügen Sie sich mit Impuls. <li> Nach der 1-Sekunden-Kontraktion beginnen Sie langsam wieder in die Ausgangsposition zu kommen, wenn Sie einatmen. <li> Wiederholen Sie den Vorgang für die empfohlene Wiederholungsmenge. </ol> <h3> Variationen: </h3> Es gibt viele Variationen für das Crunch. Sie können die Übung mit Gewichten, oder auf einem Übungskugel oder auf einer Niederlage Bank durchführen."
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Bancada Crunches",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Deite-se de costas com os pés apoiados no chão ou descansando num banco com os joelhos dobrados num ângulo de 90. Se descansa os pés Em um banco, coloque-os de três a quatro centímetros de distância e aponte seus dedos para dentro, para que eles toquem. <li> Agora coloque as mãos levemente de cada lado da cabeça, mantendo os cotovelos dentro. Dica: Não trancar os dedos atrás da cabeça . <li> Enquanto empurra a parte de baixo para baixo no chão para melhor isolar os músculos abdominais, comece a rolar os ombros para fora do chão. <li> Continue empurrando para baixo o mais forte que puder com a parte inferior das costas ao contrair Seus abdominais e exalar.Seus ombros devem subir do chão apenas cerca de quatro centímetros, e sua parte inferior das costas deve permanecer no chão.No início do movimento, contraia os músculos abdominais duro e manter a contração por um segundo. Em movimento lento e controlado - não se engane usando impulso. <li> Após a contração de um segundo, comece a descer lentamente de novo para a posição inicial à medida que inspira. <li> Repita para a quantidade recomendada de repetições. </li></ol> <h3> Variações: </h3> Existem muitas variações para o crunch. Você pode realizar o exercício com pesos, ou em cima de uma bola de exercício ou em um banco de declínio."
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Bench Хрусты",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Лягте на спину, ноги на земле, или отдыхая на скамейке с колени согнуты под углом 90 градусов Если вы отдыхаете ноги. на скамейке, поместите их в три-четыре дюйма друг от друга и направить свои пальцы внутрь так, они касаются <li> Теперь слегка положите руки по обе стороны от вашей головы, сохраняя ваши локти в Совет.. не блокируйте пальцами за голову . <li> Прижимая поясницу вниз в пол, чтобы лучше изолировать мышцы живота, начинают катиться плечи от пола. <li> Продолжайте проталкивать вниз так сложно, как вы можете с вашим нижней части спины, как вы контракт ваши мышцы живота и выдыхайте ваши плечи должны прийти от пола только около четырех дюймов, и ваша нижняя часть спины должна оставаться на полу в верхней части движения, сожмите мышцы пресса упорно и держать сжатие в течение секунды Подсказка:... фокус на медленное, контролируемое движение. - не обманывать себя, используя импульс <li> После того, как один второй сокращения, начинают приходить медленно снова в исходное положение, как вы вдыхаете. <li> Повторите эти действия для рекомендуемое количество повторений. </li></ol> <h3> Варианты: </h3> Есть много вариантов для хруста. Вы можете выполнять упражнение с весами, или на вершине осуществление мяч или на наклонную скамью."
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Bench crunches",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> ضع شقة على ظهرك مع قدميك مسطحة على الأرض، أو استريح على مقعد مع ثني ركبتيك بزاوية 90 درجة. إذا كنت تستريح قدميك على مقاعد البدلاء، وضعها على بعد ثلاث إلى أربع بوصات وبصرف النظر، وأشر أصابع قدميك الداخل بحيث تلمس. <li> ضعي يديك برفق على جانبي رأسك بحفظ المرفقين. تلميح: لا تقفل أصابعك خلف رأسك. <li> في حين دفع صغيرة من ظهرك في الطابق لعزل أفضل عضلات البطن، والبدء في لفة كتفيك من الأرض. <li> استمر في الضغط لأسفل بأقصى ما تستطيع مع ظهرك السفلي أثناء التعاقد مع بطن البطن والزفير. يجب على كتفيك الخروج من الأرض فقط حوالي أربع بوصات، ويجب أن تبقى أسفل الظهر على الأرض. في الجزء العلوي من الحركة، عقد ببدينالس الخاص بك من الصعب والحفاظ على انكماش لمدة ثانية. نصيحة: التركيز على حركة بطيئة، تسيطر عليها - لا تغش نفسك باستخدام الزخم. <li> بعد الانكماش ثانية واحدة، تبدأ في النزول ببطء مرة أخرى إلى موقف الانطلاق كما كنت يستنشق. <li> كرر المبلغ الموصى به من التكرار. </ol> <h3> الاختلافات: </h3> هناك العديد من الاختلافات للأزمة. يمكنك إجراء التمرين مع الأوزان، أو على رأس الكرة ممارسة أو على مقاعد البدلاء الانخفاض."
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": " Crujidos de banco",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Acuéstese de espaldas con los pies apoyados en el suelo o descansando sobre un banco con las rodillas dobladas en un ángulo de 90 grados. Si está descansando los pies en un banco, colóquelos de tres a cuatro pulgadas de distancia y apunte los dedos hacia dentro para que se toquen. <li> Ahora coloque sus manos ligeramente a ambos lados de su cabeza manteniendo los codos pulg Sugerencia: No bloquee los dedos detrás de la cabeza. <li> Mientras empuja la parte baja de su espalda hacia abajo en el piso para aislar mejor sus músculos abdominales, comience a rodar sus hombros del piso. <li> Continúe empujando hacia abajo tan fuerte como pueda con su parte inferior de la espalda mientras contrae sus abdominales y exhala. Sus hombros deben subir del piso sólo unos cuatro pulgadas, y su parte inferior de la espalda debe permanecer en el suelo. En la parte superior del movimiento, contraer los músculos abdominales duro y mantener la contracción por un segundo. Consejo: Concéntrese en el movimiento lento y controlado - no se engañe usando el impulso. <li> Después de la contracción de un segundo, comienza a bajar lentamente de nuevo a la posición inicial mientras inhala. <li> Repita para la cantidad recomendada de repeticiones. </ol> <h3> Variaciones: </h3> Hay muchas variaciones para el crujido. Puede realizar el ejercicio con pesas, o en la parte superior de una pelota de ejercicio o en un banco de declive"
+        }
+      ]
+    },
+    {
+      "icon": "crunches_with_legs.png",
+      "exhaust": 2,
+      "animation": [
+        "crunches_with_legs_animation_1.png",
+        "crunches_with_legs_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "crunches with legs",
+          "exercise_detail": "<h3>Steps:</h3> <ol> <li>Lie flat on your back with your feet resting on an exercise ball and your knees bent at a 90 degree angle. <li>Place your feet three to four inches apart and point your toes inward so they touch. <li>Place your hands lightly on either side of your head keeping your elbows in. Tip: Don't lock your fingers behind your head. <li>Push the small of your back down in the floor in order to better isolate your abdominal muscles. This will be your starting position. <li>Begin to roll your shoulders off the floor and continue to push down as hard as you can with your lower back. Your shoulders should come up off the floor only about four inches, and your lower back should remain on the floor. Breathe out as you execute this portion of the movement. Squeeze your abdominals hard at the top of the contraction and hold for a second. Tip: Focus on a slow, controlled movement. Refrain from using momentum at any time. <li>Slowly go back down to the starting position as you inhale. <li>Repeat for the recommended amount of repetitions. </ol> <h3>Variations:</h3> For the most advanced lifters, a weighted plate can be held in your hands."
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Crunches avec jambes",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Allongez-vous sur le dos avec vos pieds reposant sur un ballon d'exercice et vos genoux pliés à un angle de 90 degrés. <li> Placez vos pieds de trois à quatre pouces de distance et pointez vos orteils vers l'intérieur afin qu'ils touchent. <li> Placez vos mains légèrement de chaque côté de votre tête en gardant vos coudes dedans. Astuce: Ne pas verrouiller vos doigts derrière votre tête. <li> Poussez le bas de votre dos vers le bas dans le sol afin de mieux isoler vos muscles abdominaux. Ce sera votre position de départ. <li> Commencez à rouler vos épaules sur le sol et continuer à pousser aussi bas que vous le pouvez avec votre bas du dos. Vos épaules devraient monter du sol seulement environ quatre pouces, et votre bas du dos devrait rester sur le plancher. Expirez en exécutant cette partie du mouvement. Squeeze vos abdominaux dur au sommet de la contraction et maintenez pendant une seconde. Conseil: Concentrez-vous sur un mouvement lent et contrôlé. S'abstenir d'utiliser l'élan à tout moment. <li> Retournez doucement à la position de départ lorsque vous inspirez. <li> Répétez l'opération pour la quantité recommandée de répétitions. </ol> <h3> Variations: </h3> Pour les élévateurs les plus avancés, une plaque pondérée peut être tenue dans vos mains."
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Crunches mit Beinen",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Lie flach auf dem Rücken mit den Füßen auf einem Übungskugel und Ihre Knie gebogen in einem 90-Grad-Winkel. <li> Stellen Sie Ihre Füße drei bis vier Zentimeter auseinander und zeigen Sie Ihre Zehen nach innen, so dass sie berühren. <li> Legen Sie Ihre Hände leicht auf beiden Seiten des Kopfes halten Ihre Ellenbogen in. Tipp: Verriegeln Sie nicht Ihre Finger hinter dem Kopf. <li> Drücken Sie den kleinen Rücken in den Boden, um Ihre Bauchmuskulatur besser zu isolieren. Dies ist Ihre Ausgangsposition. <li> Fangen Sie an, Ihre Schultern vom Boden zu rollen und weiter unten so stark zu drücken, wie Sie mit Ihrer untereren Rückseite drücken können. Ihre Schultern sollten aus dem Boden nur etwa vier Zentimeter, und Ihre unteren Rücken sollte auf dem Boden bleiben. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen. Squeeze Ihre Bauchmuskeln hart an der Spitze der Kontraktion und für eine Sekunde halten. Tipp: Fokus auf eine langsame, kontrollierte Bewegung. Verzögern Sie nicht, Impuls zu jeder Zeit. <li> Langsam gehen Sie zurück zur Ausgangsposition, während Sie einatmen. <li> Wiederholen Sie den Vorgang für die empfohlene Wiederholungsmenge. </ol> <h3> Variationen: </h3> Für die modernsten Lifter kann eine gewichtete Platte in Ihren Händen gehalten werden."
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Crunches com pernas",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Deite-se de costas, com os pés apoiados numa bola de exercícios e os joelhos dobrados num ângulo de 90 graus. <li> Coloque os pés de três a quatro polegadas E aponte os dedos para dentro para que eles toquem. <li> Coloque as mãos levemente em ambos os lados da cabeça, mantendo os cotovelos dentro. Dica: Não tranque os dedos atrás da cabeça. <li> Empurre a parte inferior das costas para baixo O chão, a fim de melhor isolar os músculos abdominais Esta será a sua posição inicial <li> Comece a enrolar os ombros do chão e continuar a empurrar para baixo tão duro quanto você pode com a parte inferior das costas. O chão apenas cerca de quatro centímetros, e sua parte inferior das costas deve permanecer no chão.Expirar para fora como você executa esta parte do movimento.Expressão seus abdominals duro no topo da contração e segure por um segundo. Dica: Foco em um lento , Movimento controlado .. Abster-se de usar o impulso a qualquer momento. <li> Vá devagar para baixo para a posição inicial como você inalar. <li> Repita para a quantidade recomendada de repetições. </li></ol> <h3> Variações: </h3> Para os levantadores mais avançados, uma placa ponderada pode ser segurada em suas mãos."
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Сухарики с ног",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Лягте на спину, ноги опираясь на осуществление мяч и ваши колени согнуты под углом 90 градусов <li> Поставьте ноги от трех до четырех дюймов друг от друга. и указать ваши пальцы внутрь так, они касаются <li> Положите руки слегка по обе стороны от вашей головы, сохраняя ваши локти в Совет.. не блокируйте пальцами за голову <li> Нажмите на поясницу вниз. пол, чтобы лучше изолировать мышцы живота. Это будет ваша стартовая позиция. <li> Начните свернуть свои плечи от пола и продолжают толкать вниз так сложно, как вы можете с вашей нижней части спины. ваши плечи должны выйти прочь с полом лишь около четырех дюймов, а нижняя часть спины должна оставаться на полу Выдохните, как вы выполняете эту часть движения Напрягите брюшные мышцы трудно в верхней части сокращения и удерживайте в течение секунды. Совет:.. Фокус на медленный , контролируемое движение. Воздержитесь от использования импульса в любое время. <li> Медленно вернитесь вниз в исходное положение, как вы вдыхаете. <li> Повторите эти действия для рекомендуемое количество повторений. </li></ol> <h3> Варианты: </h3> Для самых продвинутых лифтеров, взвешенная пластина может удерживаться в ваших руках."
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "crunches with legs",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> استلقي على ظهرك مع قدميك يستريح على الكرة ممارسة وركبتيك عازمة في زاوية 90 درجة. <li> ضع قدميك من ثلاث إلى أربع بوصات على حدة وأشر أصابع قدميك إلى الداخل حتى تلمس. <li> ضع يديك برفق على جانبي رأسك مع الحفاظ على المرفقين. تلميح: لا تقفل أصابعك خلف رأسك. <li> دفع صغيرة من ظهرك في الطابق من أجل عزل أفضل عضلات البطن. وسوف يكون هذا الموقف البداية. <li> ابدأ بلف كتفيك بعيدا عن الأرض واستمر في الضغط لأسفل بأقصى ما يمكن مع ظهرك السفلي. يجب على كتفيك الخروج من الأرض فقط حوالي أربع بوصات، ويجب أن تبقى أسفل الظهر على الأرض. تنفس كما كنت تنفيذ هذا الجزء من الحركة. الضغط على بطن الخاص الصعب في الجزء العلوي من الانكماش وعقد لمدة ثانية. نصيحة: ركز على حركة بطيئة ومسيطر عليها. الامتناع عن استخدام الزخم في أي وقت. <li> ببطء العودة إلى أسفل إلى نقطة الانطلاق كما كنت يستنشق. <li> كرر المبلغ الموصى به من التكرار. </ol> <h3> الاختلافات: </h3> بالنسبة للرافعين الأكثر تقدما، يمكن وضع لوح مرجح في يديك."
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": " Crunches con piernas",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Acuéstese de espaldas con los pies apoyados en una bola de ejercicio y las rodillas dobladas en un ángulo de 90 grados. <li> Coloque los pies de tres a cuatro pulgadas de distancia y apunte los dedos hacia dentro para que se toquen. <li> Coloque las manos ligeramente a ambos lados de la cabeza manteniendo los codos pulg Sugerencia: No bloquee los dedos detrás de la cabeza. <li> Empuje la parte baja de su espalda hacia abajo en el suelo para aislar mejor sus músculos abdominales. Esta será su posición inicial. <li> Comienza a rodar tus hombros del piso y continúa empujando hacia abajo tan fuerte como puedas con la espalda baja. Sus hombros deben subir del piso sólo unos cuatro pulgadas, y su parte inferior de la espalda debe permanecer en el suelo. Exhale mientras ejecuta esta parte del movimiento. Apriete sus abdominales duro en la parte superior de la contracción y mantenga por un segundo. Consejo: enfoque en un movimiento lento y controlado. Abstenerse de utilizar el impulso en cualquier momento. <li> Vuelve lentamente a la posición inicial mientras inhalas. <li> Repita para la cantidad recomendada de repeticiones. </ol> <h3> Variaciones: </h3> Para los elevadores más avanzados, se puede mantener una placa con peso en sus manos."
+        }
+      ]
+    },
+    {
+      "icon": "decline_crunch.png",
+      "exhaust": 2,
+      "animation": [
+        "decline_crunch_animation_1.png",
+        "decline_crunch_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "decline_crunch",
+          "exercise_detail": "<h3>Steps:</h3><ol> <li>Secure your legs at the end of the decline bench and lie down. <li>Now place your hands lightly on either side of your head keeping your elbows in. Tip: Don't lock your fingers behind your head. <li>While pushing the small of your back down in the bench to better isolate your abdominal muscles, begin to roll your shoulders off it. Continue to push down as hard as you can with your lower back as you contract your abdominals and exhale. Your shoulders should come up <li>off the bench only about four inches, and your lower back should remain on the bench. At the top of the movement, contract your abdominals hard and keep the contraction for a second. Tip: Focus on slow, controlled movement - don't cheat yourself by using momentum. <li>After the one second contraction, begin to come down slowly again to the starting position as you inhale. <li>Repeat for the recommended amount of repetitions.</ol><h3>Variations:</h3>There are many variations for the crunch. You can perform the exercise with weights, or on top of an exercise ball or on a flat bench."
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Découper Crunch",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Fixez vos jambes à la fin du banc de déclin et vous allonger. <li> Maintenant, placez vos mains légèrement de chaque côté de votre tête en gardant vos coudes dedans. Astuce: Ne pas verrouiller vos doigts derrière votre tête. <li> Tout en poussant la petite de votre dos dans le banc pour mieux isoler vos muscles abdominaux, commencer à rouler vos épaules hors de lui. Continuer à pousser vers le bas aussi fort que vous pouvez avec votre bas du dos que vous contractez vos abdominaux et expirez. Vos épaules devraient sortir <li> sur le banc seulement environ quatre pouces, et votre bas du dos doit rester sur le banc. Au sommet du mouvement, contracter vos abdominaux dur et garder la contraction pour une seconde. Astuce: Concentrez-vous sur le mouvement lent et contrôlé - ne vous trichez pas en utilisant l'élan. <li> Après la contraction d'une seconde, commencez à descendre lentement à nouveau jusqu'à la position de départ lorsque vous inspirez. <li> Répétez la répétition pour la quantité recommandée de répétitions. </ol> <h3> Variations: </h3> Il existe de nombreuses variantes pour le crunch. Vous pouvez effectuer l'exercice avec des poids, ou sur un ballon d'exercice ou sur un banc plat."
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Abnehmen Crunch",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Sichern Sie Ihre Beine am Ende der Bank und legen Sie sich hin. <li> Nun legen Sie Ihre Hände leicht auf beiden Seiten des Kopfes halten Ihre Ellenbogen in. Tipp: Verriegeln Sie nicht Ihre Finger hinter dem Kopf. <li> Während Sie den kleinen Rücken nach unten in die Bank drücken, um Ihre Bauchmuskulatur besser zu isolieren, fangen Sie an, die Schultern von ihr zu rollen. Weiter nach unten drücken, so hart wie Sie können mit Ihrem unteren Rücken, wie Sie Ihre Bauchmuskeln Vertrag und ausatmen. Ihre Schultern sollten <li> von der Bank nur etwa vier Zoll, und Ihre unteren Rücken sollte auf der Bank bleiben. An der Spitze der Bewegung, Vertrag Ihre Bauchmuskeln hart und halten die Kontraktion für eine Sekunde. Tipp: Konzentrieren Sie sich auf langsame, kontrollierte Bewegung - nicht betrügen Sie sich mit Impuls. <li> Nach der 1-Sekunden-Kontraktion beginnen Sie langsam wieder in die Ausgangsposition zu kommen, wenn Sie einatmen. <li> Wiederholen Sie für die empfohlene Wiederholungszahl. </li></ol><h3> Variationen: </h3> Es gibt viele Variationen für das Crunch. Sie können die Übung mit Gewichten, oder auf einem Übungskugel oder auf einer flachen Bank durchführen."
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Recusar Crunch",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Prenda as pernas no final do banco de declínio e deite-se. <li> Agora coloque as mãos levemente de cada lado da cabeça mantendo os cotovelos dentro. : Não bloqueie os dedos atrás da cabeça. <li> Enquanto empurra a parte inferior das costas para baixo no banco para melhor isolar os músculos abdominais, comece a enrolar os ombros fora dele Continue a empurrar para baixo tão duro quanto você pode com Sua parte traseira mais baixa enquanto você contrai seus abdominals e expira seus ombros devem vir acima do banco apenas aproximadamente quatro polegadas, e sua parte traseira mais baixa deve permanecer no banco. No alto do movimento, contraia seus abdominals duros e mantenha <li> Após a contração de um segundo, comece a descer lentamente de novo para a posição inicial, quando você inala. </li></ol> </h3> Variações: </h3> Existem muitas variações para a trituração: você pode realizar o exercício com pesos, ou em cima de uma bola de exercício ou em uma bancada plana."
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Спад Crunch",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Защитите свои ноги в конце скамьи упадка и полежать <li> Теперь слегка положите руки по обе стороны от вашей головы, сохраняя ваши локти в наконечнике.. : не блокируйте пальцами за голову <li> Прижимая поясницу вниз в скамейку, чтобы лучше изолировать мышцы живота, начинают катиться плечи от него продолжать толкать вниз так сложно, как вы можете с.. нижней части спины, как вы сожмите брюшные мышцы и выдохните. ваши плечи должны придумать <li> со скамейки только около четырех дюймов, и ваша нижняя часть спины должна оставаться на скамейке. в верхней части движения, сожмите мышцы пресса упорно и держать сокращение на секунду. Совет:.. Фокус на медленное, контролируемое движение - не обманывать себя, используя импульс <li> После одного второго сокращения, начинают приходить медленно снова в исходное положение, как вы вдыхаете <li> Повторите эти действия для рекомендуемое количество повторений </li></ol> <h3> варианты:. </h3> Есть много вариантов для хруста. Вы можете выполнять упражнение с весами, или на вершине осуществление мяч или на плоской скамье."
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "decline_crunch",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> تأمين ساقيك في نهاية مقعد التراجع والاستلقاء. <li> ضعي يديك برفق على جانبي رأسك بحفظ المرفقين. تلميح: لا تقفل أصابعك خلف رأسك. <li> في حين دفع صغيرة من ظهرك في مقاعد البدلاء لعزل أفضل عضلات البطن، والبدء في لفة كتفيك قبالة ذلك. الاستمرار في دفع أسفل بقدر ما تستطيع مع أسفل الخاص بك كما كنت العقد بطن الخاص والزفير. يجب على كتفيك الخروج <li> من مقاعد البدلاء فقط حوالي أربع بوصات، ويجب أن تبقى أسفل الظهر على مقاعد البدلاء. في الجزء العلوي من الحركة، عقد ببدينالس الخاص بك من الصعب والحفاظ على انكماش لمدة ثانية. نصيحة: التركيز على حركة بطيئة، تسيطر عليها - لا تغش نفسك باستخدام الزخم. <li> بعد الانكماش ثانية واحدة، تبدأ في النزول ببطء مرة أخرى إلى موقف الانطلاق كما كنت يستنشق. <li> كرر المبلغ الموصى به من التكرار. </ol> <h3> الاختلافات: </h3> هناك العديد من الاختلافات للأزمة. يمكنك إجراء التمرين مع الأوزان، أو على رأس الكرة ممارسة أو على مقعد مسطح."
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": " Rechazar el crujido",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Asegure sus piernas al final del banco de declive y recuéstese. <li> Ahora coloque sus manos ligeramente a ambos lados de su cabeza manteniendo los codos pulg Sugerencia: No bloquee los dedos detrás de la cabeza. <li> Mientras empuja la parte baja de su espalda hacia abajo en el banco para aislar mejor sus músculos abdominales, comience a rodar sus hombros de él. Continúe empujando hacia abajo lo más fuerte que pueda con su parte inferior de la espalda mientras contrae sus abdominales y exhala. Sus hombros deben salir <li> del banco sólo unos cuatro pulgadas, y su parte inferior de la espalda debe permanecer en el banco. En la parte superior del movimiento, contraer los músculos abdominales duro y mantener la contracción por un segundo. Consejo: Concéntrese en el movimiento lento y controlado - no se engañe usando el impulso. <li> Después de la contracción de un segundo, comienza a bajar lentamente de nuevo a la posición inicial mientras inhala. <li> Repita para la cantidad recomendada de repeticiones. </ol> <h3> Variaciones: </h3> Hay muchas variaciones para el crujido. Usted puede realizar el ejercicio con pesas, o en la parte superior de una pelota de ejercicio o en un banco plano."
+        }
+      ]
+    },
+    {
+      "icon": "abdominal_crunch.png",
+      "exhaust": 2,
+      "animation": [
+        "abdominal_crunch_animation_1.png",
+        "abdominal_crunch_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Abdominal Crunch",
+          "exercise_detail": "<h3>Steps:</h3> <ol> <li>Lie on an exercise ball with your lower back curvature pressed against the spherical surface of the ball. Your feet should be bent at the knee and pressed firmly against the floor. The upper torso should be hanging off the top of the ball. The arms should either be kept alongside the body or crossed on top of your chest as these positions avoid neck strains (as opposed to the hands behind the back of the head position). <li>Lower your torso into a stretch position keeping the neck stationary at all times. This will be your starting position. <li>With the hips stationary, flex the waist by contracting the abdominals and curl the shoulders and trunk upward until you feel a nice contraction on your abdominals. The arms should simply slide up the side of your legs if you have them at the side or just stay on top of your chest if you have them crossed. The lower back should always stay in contact with the ball. Exhale as you perform this movement and hold the contraction for a second. <li>As you inhale, go back to the starting position. <li>Repeat for the recommended amount of repetitions. </ol> <h3>Variations:</h3> You can perform this exercise with a low pulley behind you with a rope attached on its end. In this manner you can go ahead and add resistance easier. For this variation, you will need to hold on to the sides of the rope throughout the movement. I like to bring my arms forward to the point that the upper arms are almost parallel to my torso and the lower arms are facing back holding the rope. <h3>Caution:</h3> Perform this exercise slowly and deliberately as it takes some getting used to. Also, do not be hasty and try to use weights on the first time; you'll have enough on your hands learning how to balance yourself. Also, if balance is an issue I recommend having a spotter next to you and also placing each of your feet under a 100-lb dumbbell for added stability.<br> As you get more advanced you can hold a dumbbell or a weight plate (held at arms length) on top of your chest. However, you have to be very careful when adding weight to this exercise, because if you add too much too quickly you could get a hernia."
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Abdominal Crunch",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Allongez-vous sur une balle d'exercice avec la courbure du bas du dos pressée contre la surface sphérique de la balle. Vos pieds doivent être pliés au niveau du genou et appuyés fermement contre le plancher. Le haut du torse devrait être accroché au sommet de la balle. Les bras doivent être maintenus le long du corps ou croisés au-dessus de votre poitrine car ces positions évitent les déformations cervicales (par opposition aux mains derrière le dos de la position de la tête). <li> Abaissez votre torse dans une position étirée en gardant le cou stationnaire à tout moment. Ce sera votre position de départ. <li> Avec les hanches stationnaires, fléchissez la taille en contractant les abdominaux et enroulez les épaules et le tronc vers le haut jusqu'à ce que vous sentez une belle contraction sur vos abdominaux. Les bras doivent simplement glisser sur le côté de vos jambes si vous les avez sur le côté ou tout simplement rester sur le dessus de votre poitrine si vous les avez traversés. Le bas du dos doit toujours rester en contact avec la balle. Expirez en effectuant ce mouvement et maintenez la contraction pendant une seconde. <li> Lorsque vous inspirez, retournez à la position de départ. <li> Répétez l'opération pour la quantité recommandée de répétitions. </ol> <h3> Variations: </h3> Vous pouvez effectuer cet exercice avec une poulie basse derrière vous avec une corde attachée à son extrémité. De cette façon, vous pouvez aller de l'avant et ajouter la résistance plus facile. Pour cette variation, vous devrez tenir sur les côtés de la corde tout au long du mouvement. J'aime amener mes bras vers l'avant au point que les bras sont presque parallèles à mon torse et les bras inférieurs sont face à l'arrière tenant la corde.</li></ol> <h3> Attention: </h3> Effectuez cet exercice lentement et délibérément car il faut un peu d'habitude. Aussi, ne soyez pas hâtif et essayez d'utiliser des poids sur la première fois; Vous aurez assez sur vos mains pour apprendre à vous équilibrer. En outre, si l'équilibre est un problème, je recommande d'avoir un spotter à côté de vous et également placer chacun de vos pieds sous une haltère de 100 lb pour plus de stabilité. Comme vous obtenez plus avancé, vous pouvez tenir un haltère ou une plaque de poids Tenue à la longueur des bras) sur le dessus de votre poitrine. Toutefois, vous devez être très prudent lorsque vous ajoutez du poids à cet exercice, parce que si vous ajoutez trop trop rapidement, vous pourriez obtenir une hernie."
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Abdominal Crunch",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Liegen Sie auf einem Übungskugel, der mit der unteren Rückenkrümmung gegen die Kugelfläche der Kugel gedrückt wird. Ihre Füße sollten am Knie gebeugt und fest gegen den Boden gedrückt werden. Der obere Torso sollte von der Oberseite des Balles hängen. Die Arme sollten entweder neben dem Körper gehalten werden oder gekreuzt auf der Brust, da diese Positionen vermeiden Halsbelastungen (im Gegensatz zu den Händen hinter der Rückseite der Kopfposition). <li> Senken Sie Ihren Torso in eine Ausdehnungsposition, die den Hals stationär zu jeder Zeit hält. Dies ist Ihre Ausgangsposition. <li> Mit der Hüfte stationär, biegen Sie die Taille, indem Sie die Bauchmuskeln und locken die Schultern und Rumpf nach oben, bis Sie eine schöne Kontraktion auf Ihre Bauchmuskeln fühlen. Die Arme sollten einfach schieben Sie die Seite der Beine, wenn Sie sie an der Seite haben oder einfach nur auf der Oberseite der Brust, wenn Sie sie gekreuzt haben. Der untere Rücken sollte immer in Kontakt mit der Kugel bleiben. Ausatmen, wie Sie diese Bewegung durchführen und halten Sie die Kontraktion für eine Sekunde. <li> Wie Sie einatmen, gehen Sie zurück in die Ausgangsposition. <li> Wiederholen Sie den Vorgang für die empfohlene Wiederholungsmenge. </ol> <h3> Variationen: </h3> Sie können diese Übung mit einer niedrigen Rolle hinter sich mit einem Seil an seinem Ende befestigen. Auf diese Weise können Sie voran gehen und Widerstand hinzufügen leichter. Für diese Variante, müssen Sie an den Seiten des Seils während der Bewegung zu halten. Ich möchte meine Arme auf den Punkt bringen, dass die Oberarme fast parallel zu meinem Rumpf sind und die Unterarme nach hinten zeigen, die das Seil halten. <h3> Achtung: </h3> Führen Sie diese Übung langsam und bewusst durch, da es gewöhnen muss. Auch seien Sie nicht übereilt und versuchen Sie, Gewichte auf dem ersten Mal zu verwenden; Sie haben genug auf Ihren Händen lernen, wie Sie sich ausgleichen. Auch, wenn Balance ein Problem ist, empfehle ich einen Spotter neben Ihnen und auch Platzierung jeder Ihrer Füße unter einem 100-Pfund Hantel für zusätzliche Stabilität. Wenn Sie mehr Fortgeschrittene können Sie eine Hantel oder eine Gewichtsplatte halten Gehalten auf Armlänge) oben auf der Brust. Allerdings müssen Sie sehr vorsichtig sein, wenn Sie Gewicht zu dieser Übung, denn wenn Sie zu viel zu schnell hinzufügen, könnten Sie eine Hernie."
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Abdominal Crunch",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Deite-se sobre uma bola de exercícios com a curvatura da parte inferior das costas pressionada contra a superfície esférica da bola Seus pés devem ser dobrados no joelho e pressionados firmemente contra o chão. A parte superior do tronco deve estar pendurada na parte superior da bola, os braços devem ser mantidos ao lado do corpo ou cruzados em cima do peito, pois estas posições evitam tensões cervicais (em oposição às mãos por trás da parte de trás da cabeça). <li> Com os quadris estacionários, flexione a cintura, contraindo os abdominais e enrolando os ombros e o tronco para cima até sentir-se Uma contração agradável em seus abdominals.Os braços devem simplesmente deslizar para cima o lado de suas pernas, se você tê-los ao lado ou apenas ficar em cima do seu peito, se você tiver cruzado.A parte inferior das costas deve sempre ficar em contato com a bola Exhale enquanto executa esse movimento e mantenha a contração por um segundo. <li> À medida que inspira, volte à posição inicial. <li> Repita para a quantidade recomendada de repetições.</li></ol> <h3> Variações: </h3> Você pode executar este exercício com uma polia baixa atrás de você com uma corda presa na extremidade. Desta forma, você pode ir em frente e adicionar resistência mais fácil. Para esta variação, você precisará segurar os lados da corda durante todo o movimento. Eu gosto de trazer meus braços para a frente ao ponto de que os braços são quase paralelas ao meu tronco e os braços inferiores estão voltados para trás segurando a corda. <h3> Cuidado: </h3> Execute este exercício de forma lenta e deliberada, uma vez que leva algum tempo para se acostumar. Além disso, não se apresse e tente usar pesos na primeira vez; Você terá o suficiente em suas mãos aprendendo a equilibrar-se. Além disso, se o equilíbrio é um problema eu recomendo ter um spotter ao seu lado e também colocando cada um dos seus pés sob um haltere de 100 lb para maior estabilidade. Como você começa mais avançado você pode segurar um haltere ou uma placa de peso Segurado no comprimento dos braços) em cima do seu peito. No entanto, você tem que ter muito cuidado ao adicionar peso para este exercício, porque se você adicionar demasiado muito rapidamente você poderia obter uma hérnia."
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "брюшной Хруст",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Ли на осуществление мяч с нижней части спины кривизной, прижатой к сферической поверхности шара Ваши ноги должны быть согнуты в коленях и плотно прижата к полу.. верхняя часть туловища должна быть висит от верхней части шара. руки должны быть либо сохранены вдоль тела или скрещены на верхней части груди, как эти позиции во избежание деформации шеи (в отличие от руки за спиной положения головы). <li> Опустите туловище в положение растяжения, сохраняя неподвижность шеи во все времена. Это будет Ваша стартовая позиция. <li> с бедра неподвижен, сгибать талию стягиванием мышц брюшного пресса и свернуться плечи и туловище вверх до тех пор, пока не почувствуете хорошее сокращение на брюшного пресса. руки должны просто скользить вверх сторону ваших ног, если они у вас есть на стороне или просто остаться на верхней части груди, если они у вас есть пересекла. нижняя часть спинки должна всегда оставаться в контакте с мячом . Выдохните, как вы выполняете это движение и удерживать сокращение в течение секунды. <li> Когда вы вдыхаете, вернитесь в исходное положение. <li> Повторите эти действия для рекомендуемое количество повторений. </ol> <h3> Варианты: </h3> Вы можете выполнять это упражнение с низким шкивом позади вас с веревкой на его конце. Таким образом, вы можете пойти дальше и добавить сопротивление легче. Для этого изменения, вам нужно будет держаться сторонам веревки на протяжении движения. Я хотел бы принести свои руки вперед к тому, что верхние рычаги почти параллельны к моему туловищу и нижние рычаги, обращенной назад держа веревку. </li></ol><h3> Внимание: </h3> Выполнить это упражнение медленно и осторожно, как это требует некоторого привыкания. Кроме того, не быть поспешным и пытаются использовать веса в первый раз; вы будете иметь достаточно на руках обучения, как сбалансировать себя. Кроме того, если баланс является вопросом я рекомендую иметь корректировщик рядом с вами, а также размещения каждого из ваших ног под 100-фунт гантелями для дополнительной устойчивости. <br> Как вы получите более продвинутые вы можете держать гантели или веса пластины ( провел на расстоянии вытянутой руки) на верхней части груди. Тем не менее, вы должны быть очень осторожны при добавлении вес этого упражнения, потому что если вы добавляете слишком много и слишком быстро, вы могли бы получить грыжу."
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Abdominal Crunch",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> استلقي على كرة التمرين مع انحناء أسفل الظهر الضغط على سطح كروية من الكرة. يجب أن تكون عازمة قدميك في الركبة والضغط بقوة ضد الأرض. يجب أن يكون الجذع العلوي معلقة قبالة الجزء العلوي من الكرة. يجب إما أن تبقى الأسلحة جنبا إلى جنب مع الجسم أو عبرت على أعلى من صدرك حيث هذه المواقف تجنب سلالات الرقبة (على عكس اليدين وراء الجزء الخلفي من موقف الرأس). <li> خفض الجذع الخاص بك إلى موقف تمتد الحفاظ على الرقبة ثابتة في جميع الأوقات. وسوف يكون هذا الموقف البداية. <li> مع الوركين ثابتة، المرن الخصر عن طريق التعاقد مع أبدومينالس و حليقة الكتفين و جذع التصاعدي حتى تشعر انكماش لطيفة على أبدومينالس الخاص بك. يجب أن تنزلق الأذرع ببساطة على الجانب من ساقيك إذا كان لديك لهم في الجانب أو مجرد البقاء على رأس صدرك إذا كان لديك عبرت. أسفل الظهر يجب دائما البقاء على اتصال مع الكرة. الزفير وأنت تؤدي هذه الحركة وعقد الانكماش لمدة ثانية. <li> عندما تستنشق، ارجع إلى موضع البدء. <li> كرر المبلغ الموصى به من التكرار. </ol> <h3> الاختلافات: </h3> يمكنك إجراء هذا التمرين مع بكرة منخفضة خلفك مع حبل تعلق على نهايته. وبهذه الطريقة يمكنك المضي قدما وإضافة المقاومة أسهل. لهذا الاختلاف، سوف تحتاج إلى الاستمرار على جانبي الحبل في جميع أنحاء الحركة. أود أن أحمل ذراعي إلى الأمام أن النقطة العليا من الأسلحة موازية تقريبا لجذعي والأسلحة السفلية تواجه مرة أخرى عقد الحبل. <h3> تنبيه: </h3> تنفيذ هذا التمرين ببطء وبشكل متعمد لأنه يأخذ بعض التعود على. أيضا، لا تكون متسرعة ومحاولة استخدام الأوزان في المرة الأولى. سيكون لديك ما يكفي على يديك تعلم كيفية تحقيق التوازن بين نفسك. أيضا، إذا كان التوازن هو قضية أوصي وجود بقعة بجوارك وأيضا وضع كل من قدميك تحت الدمبل 100 رطل لمزيد من الاستقرار. <br> كما تحصل على أكثر تقدما يمكنك عقد الدمبل أو لوحة الوزن ( عقد على طول الأسلحة) على رأس صدرك. ومع ذلك، عليك أن تكون حذرا جدا عند إضافة الوزن إلى هذا التمرين، لأنه إذا قمت بإضافة الكثير جدا بسرعة كبيرة يمكن أن تحصل على فتق."
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": " Contracción abdominal",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Acuéstese sobre una bola de ejercicio con la curvatura de la parte inferior de la espalda presionada contra la superficie esférica de la pelota. Sus pies deben estar doblados en la rodilla y presionar firmemente contra el piso. El torso superior debe estar colgando de la parte superior de la pelota. Los brazos deben ser mantenidos a lo largo del cuerpo o cruzados en la parte superior de su pecho, ya que estas posiciones evitar tensiones de cuello (en contraposición a las manos detrás de la parte posterior de la posición de la cabeza). <li> Baje su torso en una posición de estiramiento manteniendo el cuello estacionario en todo momento. Esta será su posición inicial. <li> Con las caderas estacionarias, flexione la cintura contrayendo los abdominales y rizando los hombros y el tronco hacia arriba hasta sentir una buena contracción en los abdominales. Los brazos deben deslizar simplemente para arriba el lado de sus piernas si usted los tiene en el lado o apenas permanecer encima de su pecho si usted los tiene cruzados. La parte inferior de la espalda siempre debe permanecer en contacto con la pelota. Exhale mientras realiza este movimiento y mantenga la contracción por un segundo. <li> Mientras inhala, vuelva a la posición inicial. <li> Repita para la cantidad recomendada de repeticiones. </ H> <h3> Variaciones: </h3> Puede realizar este ejercicio con una polea baja detrás de usted con una cuerda unida en su extremo. De esta manera usted puede seguir adelante y añadir resistencia más fácil. Para esta variación, tendrá que aferrarse a los lados de la cuerda durante todo el movimiento. Me gusta llevar mis brazos hacia adelante hasta el punto de que los brazos son casi paralelos a mi torso y los brazos son hacia atrás sosteniendo la cuerda. <h3> Precaución: </h3> Realice este ejercicio de forma lenta y deliberada, ya que se tarda en acostumbrarse. Además, no se apresure y tratar de utilizar pesas en la primera vez; Usted tendrá bastante en sus manos que aprenden cómo balancearse. Además, si el equilibrio es un problema que recomiendo tener un observador a su lado y también la colocación de cada uno de sus pies en una pesa de 100 libras para mayor estabilidad. A medida que más avanzado puede sostener una pesa o un peso placa ( Sostenido en la longitud de los brazos) en la parte superior de su pecho. Sin embargo, usted tiene que tener mucho cuidado al agregar peso a este ejercicio, porque si agrega demasiado demasiado rápido podría obtener una hernia."
+        }
+      ]
+    },
+    {
+      "icon": "elbow_plank.png",
+      "exhaust": 2,
+      "animation": [
+        "elbow_plank_animation_1.png",
+        "elbow_plank_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Elbow Plank",
+          "exercise_detail": "<h3>Steps:</h3><ol> <li>Get into a prone position on the floor, supporting your weight on your toes and your forearms. Your arms are bent and directly below the shoulder.</li> <li>Keep  your body straight at all times, and hold this position as long as possible. To increase difficulty, an arm or leg can be raised. </li></ol>"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Planche coude",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Mettez-vous en position couchée sur le sol, soutenant votre poids sur vos orteils et vos avant-bras. Vos bras sont pliés et directement au-dessous de l'épaule. </li> <li> Gardez votre corps droit en tout temps, et maintenez cette position aussi longtemps que possible. Pour augmenter la difficulté, un bras ou une jambe peut être soulevée. </li> </ol>"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Winkel-Planke",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Holen Sie sich in eine anfällige Position auf dem Boden und unterstützen Sie Ihr Gewicht auf Ihren Zehen und Ihren Unterarmen. Ihre Arme sind gebeugt und direkt unter der Schulter. </li> <li> Halten Sie Ihren Körper immer gerade und halten Sie diese Position so lange wie möglich. Um die Schwierigkeit zu erhöhen, kann ein Arm oder Bein angehoben werden. </li> </ol>"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Tábua de cotovelo",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Coloque-se em posição inclinada no chão, apoiando o seu peso sobre os dedos dos pés e antebraços, seus braços estão dobrados e diretamente abaixo do ombro. <li> Mantenha seu corpo reto em todos os momentos, e mantenha esta posição o maior tempo possível.Para aumentar a dificuldade, um braço ou perna pode ser levantada. </li> </ol>"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Колено Plank",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Получить в положении лежа на полу, поддерживая свой вес на носки и предплечий Ваши руки согнуты и непосредственно под плечо </li> <li> Держите корпус прямо во все времена, и удерживать эту позицию как можно дольше. Для увеличения трудности, рука или нога может быть поднята. </li> </ol>"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Elbow Plank",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> ادخل إلى وضعية عرضية على الأرض، مع دعم وزنك على أصابع قدميك وساعديك. يتم تثبيت ذراعيك أسفل الكتف مباشرة. </li> <li> حافظ على جسمك بشكل مستقيم في جميع الأوقات، واحتفظ بهذا الموضع لأطول فترة ممكنة. لزيادة الصعوبة، يمكن رفع الذراع أو الساق. </li> </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Tablón de codo",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Acérquese a una posición inclinada sobre el suelo, apoyando su peso sobre los dedos de los pies y los antebrazos. Sus brazos están doblados y directamente debajo del hombro. </li> <li> Mantenga su cuerpo recto en todo momento y mantenga esta posición el mayor tiempo posible. Para aumentar la dificultad, se puede levantar un brazo o una pierna. </li> </ol>"
+        }
+      ]
+    },
+    {
+      "icon": "sit_ups.png",
+      "exhaust": 2,
+      "animation": [
+        "sit_ups_animation_1.png",
+        "sit_ups_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Sit Ups",
+          "exercise_detail": "<h3>Steps:</h3><ol> <li>Lie down on the floor placing your feet either under something that will not move or by having a partner hold them.  Your legs should be bent at the knees.</li> <li> Place your hands behind your head and lock them together by clasping your fingers.  This is the starting position.</li> <li> Elevate your upper body so that it creates an imaginary V-shape with your thighs. Breathe out when performing this part of the exercise.</li> <li> Once you feel the contraction for a second, lower your upper body back down to the starting position while inhaling.</li> <li> Repeat for the recommended amount of repetitions.</li></ol><h3>Variations:</h3><ul> <li>This exercise can be performed with a weighted plate being held by both arms resting on the chest.  The way to perform this exercise is to cross your arms by making an X and grabbing the weighted plate.  <strong>Note:</strong> Your hands will no longer be behind your head.</li> <li>This variation may be difficult to perform at first so start out using little to no weights until you feel comfortable with the movements.</li></ul>"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Sit Ups",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Allongez-vous sur le sol en plaçant vos pieds sous quelque chose qui ne bouge pas ou en ayant un partenaire les tenir. Vos jambes doivent être courbées aux genoux. </li> <li> Placez vos mains derrière votre tête et verrouillez-les ensemble en serrant vos doigts. C'est la position de départ. </li> <li> Élevez le haut du corps afin qu'il crée une forme de V imaginaire avec vos cuisses. Lorsque vous ressentez la contraction pendant une seconde, abaissez le haut du corps vers le bas jusqu'à la position de départ tout en inhalant. </li> <li> Répétez l'opération pour la dose recommandée Quantité de répétitions </li> </ol> <h3> Variations: </h3> <ul> <li> Cet exercice peut être effectué avec une plaque pondérée maintenue par les deux bras reposant sur la poitrine. La façon d'effectuer cet exercice est de croiser les bras en faisant un X et en saisissant la plaque pondérée. </li> <li> Cette variation peut être difficile à exécuter d'abord, alors commencez par utiliser peu ou pas de poids jusqu'à ce que vous vous sentez à l'aise avec les mouvements . </li></ol>"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Sit ups",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Legen Sie sich auf den Boden legen Sie Ihre Füße entweder unter etwas, das sich nicht bewegen oder durch einen Partner halten sie. Ihre Beine sollten an den Knien gebeugt werden. </li> <li> Legen Sie Ihre Hände hinter Ihren Kopf und verriegeln Sie sie zusammen, indem Sie Ihre Finger umklammern. Dies ist die Ausgangsposition. </li> <li> Erhöhen Sie Ihren Oberkörper, so dass es eine imaginäre V-Form mit Ihren Oberschenkeln schafft. Sobald Sie die Kontraktion für eine Sekunde fühlen, senken Sie Ihren Oberkörper zurück in die Ausgangsposition beim Einatmen. </li> <li> Wiederholen Sie für das empfohlene Anzahl der Wiederholungen </li> </ol> <h3> Variationen: </h3> <ul> <li> Diese Übung kann mit einer gewichteten Platte durchgeführt werden, die von beiden Armen gehalten wird. Der Weg, um diese Übung ist es, Ihre Arme zu kreuzen, indem Sie ein X und greifen die gewichtete Platte. <Strong> Hinweis: </ strong> Ihre Hände sind nicht mehr hinter Ihrem Kopf. </li> <li> Diese Variation kann schwierig sein, zuerst zu starten, beginnen Sie mit wenig bis keine Gewichte, bis Sie sich mit den Bewegungen wohl fühlen . </li> </ ul>"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Abdominais",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Deite-se no chão, colocando os pés debaixo de algo que não se mova ou por ter um parceiro segurá-los Suas pernas devem ser dobradas aos joelhos. <li> Coloque as mãos atrás da cabeça e trancá-las juntando os dedos.Esta é a posição inicial. </li> <li> Eleve a parte superior do corpo para que ele crie uma forma V imaginária com as coxas. Respire para fora ao executar esta parte do exercício. </li> <li> Quando você sentir a contração por um segundo, abaixe seu corpo superior de volta para a posição inicial enquanto inspira. </li> <li> Repita para o recomendado Quantidade de repetições. </li> </ol> <h3> Variações: </h3> <ul> <li> Este exercício pode ser realizado com uma placa ponderada segurada por ambos os braços apoiados no peito. Este exercício é para cruzar os braços, fazendo um X e pegar a placa ponderada <strong> Nota: </strong> Suas mãos não estará mais atrás de sua cabeça. </li> <li> Esta variação pode ser difícil de executar No início, então comece a usar pouco ou nenhum peso até que você se sinta confortável com os movimentos. </li> </ol>"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Sit Ups",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Лягте на пол размещения ноги или под чем-то, что не будет двигаться или имея партнера держать их Ваши ноги должны быть согнуты в коленях </li> <li> Положите руки за голову и запереть их вместе обхватив пальцами. Это исходное положение. </li> <li> Приподнимите верхнюю часть тела так, что она создает мнимую V-образную форму с бедер. выдох при выполнении этой части упражнения. </li> <li> Как только вы почувствуете сокращение в течение секунды, опустите верхнюю часть тела вниз в исходное положение на вдохе. </li> <li> Повторите эти действия для рекомендуемое количество повторов </li> </ol> <h3> Варианты: </h3> <ol> <li> Это упражнение можно выполнять с взвешенной пластины удерживаемых обеими руками, опирающихся на груди путь выполнить это упражнение, чтобы скрестить оружие, сделав X и захват взвешенную пластину <strong> Примечание:. </strong> ваши руки больше не будет находиться позади вашей головы </li> <li> Это изменение может быть трудно выполнить. сначала так начать использовать практически нет весов, пока вы не чувствовали себя комфортно с движениями. </li> </ol>"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Sit Ups",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> استلقي على الأرض ضع قدميك إما تحت شيء لن يتحرك أو عن طريق امتلاك شريك لها. <li> <li> ضع يديك خلف رأسك وقفلها معا عن طريق تجميع أصابعك. هذا هو موضع البداية. </li> <li> رفع الجزء العلوي من الجسم بحيث يخلق خيال V- الشكل مع الفخذين. تنفس عند أداء هذا الجزء من التمرين. </li> <li> عندما تشعر بالتقلص لمدة ثانية، قم بتخفيض الجزء العلوي من الجسم إلى موضع البداية أثناء الاستنشاق. </li> <li> كرر </li> </ol> <h3> الاختلافات: </h3>  <li> يمكن تنفيذ هذا التمرين بطبقة مرجحة محتفظ بها من قبل الذراعين اللذين يستريحان على الصدر. الطريق لأداء هذا التمرين هو عبور ذراعيك من خلال جعل X والاستيلاء على لوحة مرجحة. <سترونغ> ملاحظة: </ سترونغ> لن تكون يدك خلف رأسك. </li> <li> قد يكون من الصعب تنفيذ هذا الاختلاف في البداية، لذا ابدأ باستخدام أوزان قليلة أو معدومة حتى تشعر بالارتياح تجاه الحركات . </li>."
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Sentarse",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Acuéstese en el suelo colocando los pies debajo de algo que no se mueva o por tener un compañero de sostenerlos. Sus piernas deben estar dobladas en las rodillas. </li> <li> Coloque las manos detrás de la cabeza y cárguelas juntando los dedos. Esta es la posición inicial. </li> <li> Eleve la parte superior del cuerpo para crear una forma de V imaginaria con los muslos. Exhale cuando realice esta parte del ejercicio. </li> <li> Una vez que sienta la contracción por un segundo, baje la parte superior del cuerpo hasta la posición inicial mientras inhala. Cantidad de repeticiones </li> </ol> <h3> Variaciones: </h3> <ul> <li> Este ejercicio se puede realizar con una placa ponderada sostenida por ambos brazos apoyados en el pecho. La forma de realizar este ejercicio es cruzar los brazos haciendo una X y agarrando la placa ponderada. </li> <li> Esta variación puede ser difícil de realizar al principio, así que comience con poco o ningún peso hasta que se sienta cómodo con los movimientos . </li> </ ul>"
+        }
+      ]
+    },
+    {
+      "icon": "sitting_twist.png",
+      "exhaust": 2,
+      "animation": [
+        "sitting_twist_animation_1.png",
+        "sitting_twist_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Sitting twist",
+          "exercise_detail": "<h3>Steps:</h3><ol>  <li>Lay with back on workout mat. With knees bent and feet planted on the ground.</li>  <li>With hands behind head, begin by raising torso upward towards knees. Simultaneously twist torso so opposite elbows touches opposite knee.</li>  <li>Hold elbow to knee for a brief moment before returning back to starting position. Perform movement with opposite arm and knee.</li></ol>"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Torsion assise",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Reposez-vous sur le tapis d'entraînement. Avec les genoux pliés et les pieds plantés au sol. </li> <li> Avec les mains derrière la tête, commencez par soulever le torse vers le haut vers les genoux. Tournez simultanément le torse de façon à ce que les coudes opposés touchent le genou opposé. </li> <li> Maintenez le coude au genou pendant un bref instant avant de revenir en position de départ. Effectuer un mouvement avec le bras et le genou opposés. </li> </ol>"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Sitzen Twist",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Legen Sie sich mit der Rückenlehne auf die Trainingsmatte. Mit Knien gebeugt und Füße auf dem Boden gepflanzt </li> <li> Mit den Händen hinter dem Kopf, indem Sie den Torso aufwärts in Richtung Knie. Gleichzeitig Twist Torso so gegen die Ellbogen berührt gegenüber dem Knie. </li> <li> Halten Sie den Ellenbogen kurz auf Knie, bevor Sie wieder in die Ausgangsposition zurückkehren. Bewegung mit entgegengesetztem Arm und Knie durchführen. </li> </ol>"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Torção de assento",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Coloque-se de costas na esteira de treino. Com os joelhos dobrados e os pés plantados no chão. </li> <li> Com as mãos atrás da cabeça, comece levantando o tronco para cima, em direção aos joelhos. Simultaneamente torcer o tronco de modo que os cotovelos opostos toquem o joelho oposto. </li> <li> Mantenha o cotovelo no joelho por um breve momento antes de voltar para a posição inicial. Execute movimento com braço e joelho oposto. </li> </ol>"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Сидеть твист",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Lay с спине на циновке тренировки с согнутыми коленями и ногами, посаженных на землю </li> <li> С руками за головой, начните поднимая туловище вверх по направлению к коленям. Одновременно скрутить туловище так, противоположные локти коснется противоположного колена. </li> <li> Удерживать локоть к колену на короткое время, прежде чем вернуться обратно в исходное положение. Выполняйте движение с противоположной рукой и коленом. </li> </ol>"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Sitting twist",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> ضعي مرة أخرى على حصيرة التمرين. مع الركبتين عازمة والقدمين زرعت على الأرض. </li> <li> مع اليدين وراء الرأس، تبدأ عن طريق رفع الجذع صعودا نحو الركبتين. في وقت واحد تطور الجذع حتى المرفقين يمس الركبة المعاكسة. </li> <li> عقد الكوع إلى الركبة لفترة وجيزة قبل العودة إلى وضع البداية. أداء الحركة مع الذراع والركبة المعاكسة. </li> </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Torcedura sentada",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Colóquese de nuevo en la estera de entrenamiento. Con las rodillas dobladas y los pies plantados en el suelo. </li> <li> Con las manos detrás de la cabeza, comience levantando el torso hacia arriba hacia las rodillas. Simultáneamente torcer el torso de modo que los codos opuestos toquen la rodilla opuesta. </li> <li> Sostenga el codo hasta la rodilla por un breve momento antes de volver a la posición inicial. Realice el movimiento con el brazo y la rodilla opuestos. </li> </ol>"
+        }
+      ]
+    },
+    {
+      "icon": "up_and_down_planks.png",
+      "exhaust": 2,
+      "animation": [
+        "up_and_down_planks_animation_1.png",
+        "up_and_down_planks_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Up And Down Planks",
+          "exercise_detail": "<h3>Steps:</h3><ol> <li>Assume a push-up position.</li> <li>Lower yourself to your elbows.</li> <li>Raise the right side of your body by pressing your right hand against the floor and straightening your arm.</li> <li>Raise the left side of your body in the same manner.</li> <li>Lower yourself back to your elbows, first with your left arm, then with your right.</li> <li>Keep your body straight during the entire movement.</li></ol>"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Planches de haut en bas",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Supposez une position push-up. </li> <li> Abaissez-vous aux coudes. </li> <li> Soulevez le côté droit de votre corps en Appuyez sur votre main droite contre le plancher et redressez votre bras. </li> <li> Soulevez le côté gauche de votre corps de la même manière. </li> <li> Descendez vos coudes, d'abord avec votre bras gauche </li> <li> Gardez votre corps droit pendant tout le mouvement. </li> </ol>"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Auf und Ab Bretter",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Nehmen Sie eine Push-up-Position an. </li> <li> Heben Sie die rechte Seite Ihres Körpers an </li> <li> Heben Sie die linke Seite Ihres Körpers in der gleichen Weise an. </li> <li> Senken Sie sich zurück zu Ihren Ellenbogen, zuerst mit Ihrem linken Arm , Dann mit Ihrem Recht. </li> <li> Halten Sie Ihren Körper während der gesamten Bewegung gerade. </li> </ol>"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Pranchas para cima e para baixo",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Assuma uma posição de push-up. </li> <li> Abaixe os cotovelos. </li> <li> Levante o lado direito do seu corpo Pressionando a mão direita contra o chão e endireitando o braço. </li> <li> Levante o lado esquerdo do corpo da mesma maneira. </li> <li> Baixe-se de volta aos cotovelos, primeiro com a esquerda </li> <li> Mantenha o seu corpo reto durante todo o movimento. </li> </ol>"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Вверх и вниз Планки",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Предположим, что пуш-ап позиции </li> <li> опускайтесь на ваши локти </li> <li> Поднимите правую сторону вашего тела. нажав правую руку на пол и выпрямляя руку. </li> <li> Поднимите левую сторону вашего тела таким же образом. </li> <li> Опустите себя обратно в ваши локти, сначала с левой рука, то с правой стороны. </li> <li> Держите ваше тело прямо во время всего движения. </li> </ol>"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Up And Down Planks",
+          "exercise_detail": "<h3> الخطوات التالية: </h3> <ol> <li> افترض وضع دفع. </li> <li> اخفض نفسك إلى المرفقين. </li> <li> ارفع الجانب الأيمن من جسمك بواسطة والضغط على يدك اليمنى ضد الأرض واستقامة ذراعك. </li> <li> ارفع الجانب الأيسر من جسمك بنفس الطريقة. </li> <li> اخفض نفسك إلى المرفقين، ، ثم مع حقك. </li> <li> حافظ على جسمك بشكل مستقيم أثناء الحركة بأكملها. </li> </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Arriba y abajo de los tablones",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Asuma una posición de push-up. </li> <li> Baje a los codos. </li> <li> Levante el lado derecho de su cuerpo. Presionando la mano derecha contra el suelo y enderezando el brazo. </li> <li> Levante el lado izquierdo de su cuerpo de la misma manera. </li> <li> Baje su espalda a los codos, primero con el brazo izquierdo </li> <li> Mantenga su cuerpo recto durante todo el movimiento. </li> </ol>"
+        }
+      ]
+    },
+    {
+      "icon": "flutter_kicks.png",
+      "exhaust": 2,
+      "animation": [
+        "flutter_kicks_animation_1.png",
+        "flutter_kicks_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Flutter Kicks",
+          "exercise_detail": "<h3>Steps:</h3><ol> <li>On a flat bench lie facedown with the hips on the edge of the bench, the legs straight with toes high off the floor and with the arms on top of the bench holding on to the front edge.</li> <li>Squeeze your glutes and hamstrings and straighten the legs until they are level with the hips. This will be your starting position.</li> <li>Start the movement by lifting the left leg higher than the right leg.</li> <li>Then lower the left leg as you lift the right leg.</li> <li>Continue alternating in this manner (as though you are doing a flutter kick in water) until you have done the recommended amount of repetitions for each leg. Make sure that you keep a controlled movement at all times. <strong>Tip:</strong> You will breathe normally as you perform this movement.</li></ol><h3>Variations:</h3><p> As you get more advanced you can use ankle weights.</p>"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Battements de jambes",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Sur un banc plat se trouve face cachée avec les hanches sur le bord du banc, les jambes droites avec les orteils haut du plancher et avec les bras sur le dessus du banc tenant Sur le bord avant. </li> <li> Squeeze vos fessiers et ischio-jambiers et redressez les jambes jusqu'à ce qu'ils soient au niveau des hanches. </li> <li> Démarrez le mouvement en soulevant la jambe gauche plus haut que la jambe droite. </li> <li> Abaissez ensuite la jambe gauche lorsque vous soulevez la jambe droite.<li> Continuez alternativement de cette façon (comme si vous faisiez un coup de pied de flutter dans l'eau) jusqu'à ce que vous ayez fait la quantité recommandée de répétitions pour chaque jambe. Assurez-vous de garder un mouvement contrôlé en tout temps. <strong> Astuce: </strong> Vous respirez normalement pendant que vous effectuez ce mouvement.</li></ol> </h3> <h3> Variations: </h3> <p> Au fur et à mesure que vous avancez, vous pouvez utiliser des poids de cheville. </p>"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Flutter Kicks",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Auf einer flachen Bank liegen die Hüften am Rande der Bank, die Beine mit den Zehen hoch vom Boden und die Arme auf dem Tisch Auf die Vorderkante. </li> <li> Squeeze Ihre Gesäßmuskeln und Oberschenkel und strecken Sie die Beine, bis sie auf der Höhe mit den Hüften sind. Starten Sie die Bewegung, indem Sie das linke Bein höher anheben als das rechte Bein. </li> <li> Senken Sie dann das linke Bein, während Sie das rechte Bein heben. </li> > <li> Fahren Sie auf diese Art und Weise fort (so, als ob Sie einen Flatterkick im Wasser machen), bis Sie die empfohlene Menge an Wiederholungen für jedes Bein getan haben. Stellen Sie sicher, dass Sie eine kontrollierte Bewegung zu jeder Zeit zu halten. <Strong> Tipp: </ strong> Wenn Sie diese Bewegung durchführen, werden Sie normal atmen. </li> </ol> <h3> Variationen: </h3> <p> </p>"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Chutes de Flutter",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Num banco plano deitado de bruços com os quadris na borda do banco, as pernas retas com os dedos dos pés no alto do chão e com os braços sobre o banco Segurando na borda da frente. </li> <li> Aperte seus glúteos e isquiotibiais e endireite as pernas até que fiquem à altura dos quadris. Esta será sua posição inicial. </li> <li> Inicie o movimento levantando A perna esquerda mais alta do que a perna direita. </li> <li> Em seguida, abaixe a perna esquerda ao levantar a perna direita. </li> <li> Continue alternando desta maneira (como se você estivesse Água) até que você tenha feito a quantidade recomendada de repetições para cada perna Certifique-se de que você mantenha um movimento controlado em todos os momentos <strong> Dica: </strong> Você vai respirar normalmente como você executar este movimento. </li> </ol> <h3> Variações: </h3> <p> À medida que você avança, você pode usar pesos de tornozelo. </p>"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "флаттера Kicks",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> На плоской скамейке лежат ничком с бедрами на край скамьи, ноги прямые с пальцев ног высоко от пола и с рук на верхней части скамейки держась к переднему краю. </li> <li> Напрягите ягодицы и бедра и выпрямите ноги, пока они не находятся на одном уровне с бедрами. Это будет ваше исходное положение. </li> <li> Начните движение, поднимая левая нога выше правой ноги. </li> <li> Затем опустите левую ногу, как вы поднимите правую ногу. </li> <li> Продолжайте чередуя таким образом (как будто вы делаете флаттера удар в .. вода), пока вы не сделали рекомендуемое количество повторений для каждой ноги Убедитесь, что вы держите контролируемое движение во все времена <strong> Совет. </strong> вы будете нормально дышать, поскольку вы выполняете это движение </li> </ol> <h3> Варианты:. </h3> <p> Как вы получите более продвинутые вы можете использовать лодыжки веса </ p>"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Flutter Kicks",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> على مقعد مسطح يكمن مواجهة مع الوركين على حافة مقاعد البدلاء، والساقين مباشرة مع أصابع القدم عالية قبالة الأرض ومع الأسلحة على رأس عقد مقاعد البدلاء على الحافة الأمامية. </li> <li> ضغط على غلوتيس وأوتار الركبة وتصويب الساقين حتى تكون مستوية مع الوركين. </li> <li> بدء الحركة عن طريق رفع الساق اليسرى أعلى من الساق اليمنى. </li> <li> ثم خفض الساق اليسرى عند رفع الساق اليمنى. </ 2 > <li> استمر بالتناوب بهذه الطريقة (كما لو كنت تفعل ركلة رفرفة في الماء) حتى كنت قد فعلت كمية الموصى بها من التكرار لكل ساق. تأكد من الحفاظ على حركة تسيطر عليها في جميع الأوقات. <سترونغ> تلميح: </ سترونغ> سوف تتنفس بشكل طبيعي أثناء إجراء هذه الحركة. </li> </ol> <h3> الاختلافات: </h3> <p> كما يمكنك الحصول على مزيد من التقدم يمكنك استخدام أوزان الكاحل. </ p>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": " Flutter Kicks",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> En un banco plano, boca abajo con las caderas en el borde del banco, las piernas rectas con los dedos en el suelo y con los brazos en la parte superior del banco En el borde delantero. </li> <li> Apriete los glúteos y los músculos isquiotibiales y alise las piernas hasta que estén al nivel de las caderas. Esta será su posición inicial. </li> <li> Comience el movimiento levantando la pierna izquierda más arriba que la pierna derecha. </li> <li> Luego baje la pierna izquierda mientras levanta la pierna derecha. > <li> Continúe alternando de esta manera (como si estuviera haciendo una patada en el agua) hasta que haya hecho la cantidad recomendada de repeticiones para cada pierna. Asegúrese de mantener un movimiento controlado en todo momento. <Strong> Consejo: </ strong> Respirarás normalmente mientras realices este movimiento. </ H1> <h3> Variaciones: </h3> <p> A medida que avanzas, puedes usar el peso del tobillo. </p>"
+        }
+      ]
+    },
+    {
+      "icon": "leg_raises.png",
+      "exhaust": 2,
+      "animation": [
+        "leg_raises_animation_1.png",
+        "leg_raises_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Leg Raises",
+          "exercise_detail": "<h3>Steps:</h3><ol> <li>Lie with your back flat on a bench and your legs extended in front of you off the end.</li> <li>Place your hands either under your glutes with your palms down or by the sides holding on to the bench. This will be your starting position.</li> <li>As you keep your legs extended, straight as possible with your knees slightly bent but locked raise your legs until they make a 90-degree angle with the floor.  Exhale as you perform this portion of the movement and hold the contraction at the top for a second.</li> <li>Now, as you inhale, slowly lower your legs back down to the starting position.</li></ol><h3>Variations:</h3><p>You can also perform this exercise on the floor on top of an exercise mat.  You can also add weight by holding a dumbbell in between your feet as you get more advanced.</p>"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Soulève la jambe",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Allongez-vous avec votre dos plat sur un banc et vos jambes étendues devant vous hors de la fin. </li> <li> Placez vos mains sous vos fessiers avec Vos paumes vers le bas ou par les côtés se tenant sur le banc. Ceci sera votre position de départ. </li> <li> Comme vous gardez vos jambes étendues, droites comme possible avec vos genoux légèrement pliés mais verrouillé lever vos jambes jusqu'à ce qu'ils forment un angle de 90 degrés avec le plancher. Exhalez pendant que vous effectuez cette partie du mouvement et maintenez la contraction au sommet pendant une seconde. </li> <li> Maintenant, en inspirant, abaissez lentement vos jambes vers le bas à la position de départ. </li></ol> <h3> Variations: </h3> <p> Vous pouvez également effectuer cet exercice sur le sol au-dessus d'un tapis d'exercice. Vous pouvez également ajouter du poids en tenant un haltère entre vos pieds que vous obtenez plus avancé. </p>"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Bein Raises",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Liegen Sie mit dem Rücken flach auf einer Bank und Ihre Beine vor dem Ende ausgezogen. </li> <li> Legen Sie Ihre Hände entweder unter Ihre glutes mit Ihre Handflächen nach unten oder seitlich an der Bank festhalten. Dies wird Ihre Ausgangsposition sein. </li> <li> Da Sie Ihre Beine so weit wie möglich mit den Knien leicht gebeugt halten, aber verriegelt heben Sie Ihre Beine, bis sie einen 90-Grad-Winkel mit dem Boden machen. Ausatmen, wie Sie diesen Teil der Bewegung durchführen und halten Sie die Kontraktion an der Spitze für eine Sekunde. </li> <li> Nun, wie Sie einatmen, langsam senken Sie Ihre Beine zurück in die Ausgangsposition. </li></ol> <h3> Variationen: </h3> <p> Sie können diese Übung auch auf dem Boden auf einer Trainingsmatte durchführen. Sie können Gewicht auch addieren, indem Sie eine Hantel zwischen Ihren Füßen halten, während Sie fortgeschrittener erhalten. </p>"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Perna levantada",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Deite-se com as costas planas sobre um banco e as pernas estendidas à sua frente. </li> <li> Coloque as mãos sob os glúteos Com as palmas das mãos para baixo ou para os lados segurando o banco Esta será a sua posição inicial. </li> <li> Enquanto você mantém as pernas estendidas, o mais reto possível com os joelhos ligeiramente dobrados, Fazer um ângulo de 90 graus com o chão Exhale como você executar esta parte do movimento e mantenha a contração no topo por um segundo </li> <li> agora, como você inalar, lentamente abaixe as pernas para baixo para A posição de partida. </li> </ol> <h3> Variações: </h3> <p> Você também pode realizar este exercício no chão em cima de uma esteira de exercícios. Entre os seus pés como você obter mais avançado. </p>"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Встает с колен",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Ли с спине плашмя на скамейке и ваши ноги продлен перед вами с конца </li> <li> Положите руки либо под вашими ягодицами. с вашими ладонями вниз или по бокам, держась за скамейку. Это будет ваше исходное положение. </li> <li> Как вы держите ваши ноги продлен, прямые, как это возможно с колени слегка согнуты, но заперта не поднимите ноги, пока они сделать угол 90 градусов с полом. Выдохните, как вы выполняете эту часть движения и удерживать сокращение на вершине в течение секунды. </li> <li> Теперь, когда вы вдыхаете, медленно опустите ноги обратно вниз начальное положение </li> </ol> <h3> Варианты:. </h3> <p> Вы также можете выполнять это упражнение на полу поверх мата упражнений Вы можете также добавить вес, держа гантели в. между вашими ногами, как вы получите более продвинутые. </p>"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Leg Raises",
+          "exercise_detail": "<h3> الخطوات التالية: </h3> <ol> <li> استلقي بظهرك شقة على مقعد وساقيك مددت أمامك من النهاية. </li> <li> ضع يديك إما تحت غلوتيس مع النخيل الخاص بك إلى أسفل أو من قبل الجانبين عقد على مقاعد البدلاء. هذا هو موقف البداية. </li> <li> كما يمكنك الحفاظ على ساقيك الموسعة، على التوالي ممكن مع ركبتيك عازمة قليلا ولكن مقفل رفع ساقيك حتى جعل زاوية 90 درجة مع الأرض. الزفير كما كنت أداء هذا الجزء من الحركة وعقد الانكماش في الجزء العلوي لمدة ثانية. </li> <li> الآن، كما كنت يستنشق، ببطء خفض ساقيك العودة إلى نقطة الانطلاق. </li> </ol> <h3> الاختلافات: </h3> <p> يمكنك أيضا تنفيذ هذا التمرين على الأرض أعلى حصيرة التمرين. يمكنك أيضا إضافة الوزن عن طريق عقد الدمبل بين قدميك كما تحصل على أكثر تقدما. </ p>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Piernas levantadas",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Acuéstese con la espalda sobre un banco y las piernas extendidas delante de usted. </li> <li> Coloque las manos debajo de los glúteos con Sus palmas hacia abajo o por los lados de la celebración en el banco. Ésta será tu posición inicial. </li> <li> A medida que mantengas tus piernas extendidas, recta como sea posible con las rodillas ligeramente dobladas pero bloqueadas levante las piernas hasta que hagan un ángulo de 90 grados con el piso. Exhale mientras realiza esta parte del movimiento y mantenga la contracción en la parte superior durante un segundo. </li> <li> Ahora, mientras inhala, baje lentamente las piernas hacia abajo a la posición inicial. </li> <h3> Variaciones: </h3> <p> También puede realizar este ejercicio en el suelo sobre una estera de ejercicio. Usted puede también agregar el peso sosteniendo una mancuerna entre sus pies como usted consigue más avanzado."
+        }
+      ]
+    },
+    {
+      "icon": "dumbbell_side_bend.png",
+      "exhaust": 2,
+      "animation": [
+        "dumbbell_side_bend_animation_1.png",
+        "dumbbell_side_bend_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Dumbbell side Bend",
+          "exercise_detail": "<h3>Steps:</h3> <ol> <li>Stand up straight while holding a dumbbell on the left hand (palms facing the torso) as you have the right hand holding your waist. Your feet should be placed at shoulder width. This will be your starting position. <li>While keeping your back straight and your head up, bend only at the waist to the right as far as possible. Breathe in as you bend to the side. Then hold for a second and come back up to the starting position as you exhale. Tip: Keep the rest of the body stationary. <li>Now repeat the movement but bending to the left instead. Hold for a second and come back to the starting position. <li>Repeat for the recommended amount of repetitions and then change hands. </ol> <h3>Caution: </h3> Refrain from using this exercise if your obliques tend to grow easily as wide obliques take away from your symmetry. <h3>Variations: </h3> You can also do this exercise while seating on a bench or with a barbell."
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Dumbbell side Bend",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Debout tout droit en tenant un haltère sur la main gauche (paumes face au torse) comme vous avez la main droite tenant votre taille. Vos pieds devraient être placés à la largeur des épaules. Ce sera votre position de départ. <li> Tout en gardant le dos droit et la tête haute, pliez seulement à la taille à droite autant que possible. Inspirez comme vous pliez sur le côté. Ensuite, tenir pendant une seconde et revenir à la position de départ que vous expirez. Astuce: Gardez le reste du corps immobile. <li> Maintenant, répétez le mouvement, mais inclinez-vous plutôt vers la gauche. Tenez-vous un instant et revenez à la position de départ. <li> Répétez l'opération pour la quantité recommandée de répétitions, puis changez de mains. </li></ol> <h3> Attention: </h3> S'abstenir d'utiliser cet exercice si vos obliques tendent à se développer facilement, car les obliques larges enlèvent votre symétrie. <h3> Variations: </h3> Vous pouvez également faire cet exercice en vous asseyant sur un banc ou avec une barre.</p>"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Dumbbell Seite Bend",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Stehen Sie gerade und halten Sie eine Hantel auf der linken Hand (Handflächen nach dem Torso), wie Sie die rechte Hand halten Ihre Taille haben. Ihre Füße sollten auf Schulterbreite platziert werden. Dies ist Ihre Ausgangsposition. <li> Während Sie den Rücken gerade und den Kopf nach oben, biegen nur an der Taille nach rechts so weit wie möglich. Atmen Sie ein, während Sie sich zur Seite biegen. Dann halten Sie für eine Sekunde und kommen wieder auf die Ausgangsposition, wie Sie ausatmen. Tipp: Halten Sie den Rest des Körpers stationär. <li> Nun wiederholen Sie die Bewegung, sondern biegen Sie stattdessen nach links. Halten Sie für eine Sekunde und kommen Sie zurück in die Ausgangsposition. <li> Wiederholen Sie für die empfohlene Anzahl von Wiederholungen und ändern Sie dann die Hände. </ol> <h3> Achtung: </h3> Unterlassen Sie diese Übung, wenn Ihre Schräglagen dazu neigen, leicht zu wachsen, da breite Schrägstriche Ihre Symmetrie wegnehmen. <h3> Variationen: </h3> Sie können diese Übung auch auf einer Bank oder mit einer Langhantel machen."
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Pescoço dobrável",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Levante-se em linha reta segurando um haltere na mão esquerda (palmas voltadas para o tronco) enquanto você tem a mão direita segurando sua cintura. <li> Enquanto mantém as costas retas e a cabeça erguida, dobre-se apenas na cintura para a direita, tanto quanto possível. Respire enquanto se inclina para o lado. <li> Agora, repita o movimento, mas curvando-se para a esquerda em vez disso, segure por um segundo e volte para a posição de partida. <li> </h3> Cuidado: </h3> Abster-se de usar este exercício se os seus oblíquos tendem a crescer facilmente à medida que os oblíquos largos afastam da sua simetria.</li> </ol> <h3> Variações : </h3> Você também pode fazer este exercício enquanto está sentado em um banco ou com uma barra."
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Гантели сторона Bend",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Встаньте прямо, держа гантели на левой руке (ладони смотрят торс), как у вас есть правая рука держит талию Ваши ноги должны быть размещены на плече ширина. Это будет ваша стартовая позиция. <li> Удерживая спину прямо и голову вверх, сгибать только на талии вправо, насколько это возможно. Вдохните, как вы наклоняетесь в сторону. Затем, удерживая в течение секунды и вернуться вверх в исходное положение на выдохе. Совет: Держите остальную часть неподвижного тела <li> Теперь повторите движение, но сгибая к левому вместо Задержитесь на секунду и вернуться в исходное положение <li> Повторите эти действия для рекомендуемое количество повторений, а затем изменить руки </ol> <h3> Внимание:. </h3> Воздержитесь от использования этого упражнения, если ваши косые имеют тенденцию расти легко, как широкие косые забрать из вашей симметрии <h3> Вариации. : </h3> Вы также можете делать это упражнение во время сидения на скамейке или со штангой ."
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Dumbbell side Bend",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> قف بشكل مستقيم أثناء حمل الدمبل على اليد اليسرى (النخيل التي تواجه الجذع) كما لديك اليد اليمنى يمسك الخصر. يجب وضع قدميك عند عرض الكتفين. وسوف يكون هذا الموقف البداية. <li> مع الحفاظ على ظهرك مستقيم ورأسك، ثني فقط في الخصر إلى اليمين قدر الإمكان. تنفس في كما كنت ينحني إلى الجانب. ثم عقد لمدة ثانية، ويعود إلى وضع البداية كما كنت الزفير. تلميح: حافظ على باقي الجزء الثابت من الجسم. <li> الآن كرر الحركة ولكن الانحناء إلى اليسار بدلا من ذلك. عقد لمدة ثانية والعودة إلى وضع البداية. <li> كرر المبلغ الموصى به من التكرار ثم قم بتغيير اليدين. </ol> <h3> تحذير: </h3> الامتناع عن استخدام هذا التمرين إذا تميل أبليكس الخاص بك إلى النمو بسهولة كما أوبليكس واسعة يسلب من التماثل الخاص بك. <h3> الاختلافات: </h3> يمكنك أيضا القيام بهذا التمرين أثناء الجلوس على مقعد أو مع الحديد."
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Flexión lateral de mancuerna",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Póngase de pie recto mientras sostiene una mancuerna en la mano izquierda (las palmas hacia el torso) mientras tiene la mano derecha sosteniendo su cintura. Sus pies deben colocarse a la anchura de los hombros. Esta será su posición inicial. <li> Manteniendo la espalda recta y la cabeza erguida, solo doble la cintura hacia la derecha en la medida de lo posible. Respire mientras se dobla hacia un lado. Luego manténgalo un segundo y vuelva a la posición inicial mientras exhala. Consejo: Mantenga el resto del cuerpo inmóvil. <li> Ahora repita el movimiento, pero doble hacia la izquierda. Espera un segundo y vuelve a la posición inicial. <li> Repita la cantidad recomendada de repeticiones y luego cambie de manos. </ol> <h3> Precaución: </h3> Abstenerse de usar este ejercicio si sus oblicuos tienden a crecer fácilmente, ya que los anchos oblicuos alejan de su simetría. <h3> Variaciones: </h3> También puede hacer este ejercicio mientras se asienta en un banco o con una barra."
+        }
+      ]
+    },
+    {
+      "icon": "weighted_crunch.png",
+      "exhaust": 2,
+      "animation": [
+        "weighted_crunch_animation_1.png",
+        "weighted_crunch_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Weighted Crunch",
+          "exercise_detail": "<h3>Steps:</h3> <ol> <li>Lie flat on your back on  a bench with your feet flat on the ground or resting on a bench with your knees bent at a 90 degree angle. <li>Hold a weight to your chest, or you may hold it extended above your torso. This will be your starting position. <li>Now, exhale and slowly begin to roll your shoulders off the floor. Your shoulders should come up off the floor about 4 inches while your lower back remains on the floor. <li>At the top of the movement, flex your abdominals and hold for a brief pause. <li>Then inhale and slowly lower yourself back down to the starting position. <li>Repeat this Process </ol>"
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Crunch pondéré",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Allongez-vous sur le dos, sur un banc, les pieds à plat sur le sol ou sur un banc avec les genoux pliés à un angle de 90 degrés. <li> Tenir un poids sur votre poitrine, ou vous pouvez le tenir étendu au-dessus de votre torse. Ce sera votre position de départ. <li> Maintenant, expirez et commencez lentement à rouler vos épaules du sol. Vos épaules doivent monter de l'étage environ 4 pouces tandis que votre bas du dos reste sur le sol. <li> Au sommet du mouvement, fléchissez vos abdominaux et maintenez-vous pour une brève pause. <li> Inspirez et descendez lentement vers la position de départ. <li> Répéter ce processus </li></ol>"
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Gewichtetes Crunch",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Lie flach auf dem Rücken auf einer Bank mit den Füßen flach auf dem Boden oder ruht auf einer Bank mit gebeugten Knien in einem 90 ° Winkel. <li> Halten Sie ein Gewicht an der Brust, oder Sie können es über Ihren Torso verlängert halten. Dies ist Ihre Ausgangsposition. <li> Nun atmen Sie aus und beginnen langsam, Ihre Schultern vom Boden zu rollen. Ihre Schultern sollten aus dem Boden ca. 4 cm, während Ihre unteren Rücken bleibt auf dem Boden. <li> An der Spitze der Bewegung, biegen Sie Ihre Bauchmuskeln und halten für eine kurze Pause. <li> Dann einatmen und langsam senken Sie sich zurück in die Ausgangsposition. <li> Diesen Vorgang wiederholen </ol>"
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Crunch ponderado",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Deite-se de costas em um banco com os pés no chão ou descansando em um banco com os joelhos dobrados em um ângulo de 90 graus. Um peso para o seu peito, ou você pode mantê-lo estendido acima do tronco.Esta será a sua posição inicial. <li> Agora, expire e lentamente começar a rolar os ombros do chão.Os ombros devem sair do chão cerca de 4 <li> No topo do movimento, flexione os abdominais e segure por uma breve pausa. <li> Em seguida, inspire e lentamente abaixe-se de volta para a posição inicial. <li> Repita Este processo </li> </ol>"
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Взвешенная Crunch",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Лягте на спину на скамью с ногами плоскими на земле или отдыхая на скамейке колени согнуты под углом 90 градусов <литий> Удержать. вес к груди, или вы можете держать его продлен выше туловища. Это будет ваша стартовая позиция. <литий> Теперь, выдохните и медленно начинают катиться плечи от пола. ваши плечи должны подойти с пола около 4 дюймов в то время как нижняя часть спины остается на полу. <li> в верхней части движения, согните брюшного пресса и удерживайте в течение короткой паузы. <li> Затем вдохните и медленно опускайтесь обратно вниз в исходное положение. <li> Повторите этот процесс </li></ol>"
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": "Weighted Crunch",
+          "exercise_detail": "<h3> الخطوات: </h3> <ol> <li> ضع شقة على ظهرك على مقعد مع قدميك مسطحة على الأرض أو استريح على مقعد مع ثني ركبتيك بزاوية 90 درجة. <li> أمسك بالوزن على صدرك، أو قد تمدده فوق الجذع. وسوف يكون هذا الموقف البداية. <li> الآن، الزفير وتبدأ ببطء لفافة كتفيك من الأرض. يجب على كتفيك الخروج من الأرض حوالي 4 بوصات في حين يبقى الجزء السفلي الخاص بك على الأرض. <li> في الجزء العلوي من الحركة، المرن الخاص بك بطن وعقد لعقد وقفة قصيرة. <li> ثم يستنشق وخفض ببطء نفسك مرة أخرى إلى وضع البداية. <li> كرر هذه العملية </ol>"
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Crunch ponderado",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Acuéstese de espaldas en un banco con los pies planos sobre el suelo o descansando sobre un banco con las rodillas dobladas en un ángulo de 90 grados. <li> Mantenga un peso en su pecho, o puede mantenerlo extendido por encima de su torso. Esta será su posición inicial. <li> Ahora, exhale y comience lentamente a rodar sus hombros del piso. Sus hombros deben subir del piso alrededor de 4 pulgadas mientras su espalda baja permanece en el piso. <li> En la parte superior del movimiento, flexionar los abdominales y mantener una breve pausa. <li> Luego inhala y baja lentamente hacia abajo a la posición inicial. <li> Repita este proceso </ol>"
+        }
+      ]
+    },
+    {
+      "icon": "weighted_leg_raise.png",
+      "exhaust": 2,
+      "animation": [
+        "weighted_leg_raise_animation_1.png",
+        "weighted_leg_raise_animation_2.png"
+      ],
+      "languages": [
+        {
+          "language_name": "english",
+          "exercise_title": "Weighted Leg Raise",
+          "exercise_detail": "<h3>Steps:</h3> <ol> <li>Lie with your back flat on a bench, hold some weight on your chest and your legs extended in front of you off the end. <li>Place your hands either under the weight or under your glutes or the bench. This will be your starting position. <li>As you keep your legs extended, straight as possible with your knees slightly bent but locked raise your legs until they make a 90-degree angle with the floor. Exhale as you perform this portion of the movement and hold the contraction at the top for a second. <li>Now, as you inhale, slowly lower your legs back down to the starting position. </ol> <h3>Variations: </h3> You can also perform this exercise on the floor on top of an exercise mat. You can also add weight by holding a dumbbell in between your feet as you get more advanced."
+        },
+        {
+          "language_name": "french",
+          "exercise_title": "Levée de jambe pondérée",
+          "exercise_detail": "<h3> Étapes: </h3> <ol> <li> Allongez-vous avec votre dos plat sur un banc, maintenez un peu de poids sur votre poitrine et vos jambes étendues devant vous hors de la fin. <li> Placez vos mains sous le poids ou sous vos fessiers ou sur le banc. Ce sera votre position de départ. <li> Comme vous gardez vos jambes étendues, droit que possible avec vos genoux légèrement pliés mais verrouillé lever vos jambes jusqu'à ce qu'ils forment un angle de 90 degrés avec le plancher. Expirez pendant que vous effectuez cette partie du mouvement et maintenez la contraction au sommet pendant une seconde. <li> Maintenant, lorsque vous inspirez, abaissez lentement vos jambes vers le bas à la position de départ. </li></ol> <h3> Variations: </h3> Vous pouvez également effectuer cet exercice sur le sol au-dessus d'un tapis d'exercice. Vous pouvez également ajouter du poids en tenant un haltère entre vos pieds que vous obtenez plus avancé."
+        },
+        {
+          "language_name": "german",
+          "exercise_title": "Gewichtetes Beinheben",
+          "exercise_detail": "<h3> Schritte: </h3> <ol> <li> Liegen Sie mit der Rückseite flach auf einer Bank, halten Sie etwas Gewicht auf Ihrer Brust und Ihre Beine, die vor Ihnen vom Ende verlängert werden. <li> Legen Sie Ihre Hände entweder unter das Gewicht oder unter Ihre glutes oder die Bank. Dies ist Ihre Ausgangsposition. <li> Da Sie Ihre Beine so weit wie möglich mit den Knien leicht gebeugt halten, aber verriegelt heben Sie Ihre Beine, bis sie einen 90-Grad-Winkel mit dem Boden machen. Ausatmen, wie Sie diesen Teil der Bewegung durchführen und halten Sie die Kontraktion an der Spitze für eine Sekunde. <li> Nun, wie Sie einatmen, langsam senken Sie die Beine zurück nach unten in die Ausgangsposition. </ol> <h3> Variationen: </h3> Sie können diese Übung auch auf dem Boden einer Übungsmatte durchführen. Sie können Gewicht auch addieren, indem Sie eine Hantel zwischen Ihren Füßen halten, während Sie fortgeschrittener erhalten."
+        },
+        {
+          "language_name": "portuguese",
+          "exercise_title": "Perna ponderada",
+          "exercise_detail": "<h3> Passos: </h3> <ol> <li> Deite-se com as costas no chão, mantenha algum peso no peito e as pernas estendidas à sua frente. <li> Coloque as mãos Sob o peso ou sob seus glúteos ou o banco Esta será a sua posição inicial <li> Como você manter suas pernas estendidas, retas como possível com os joelhos ligeiramente curvado mas bloqueado levantar as pernas até que eles fazem um ângulo de 90 graus com Expire enquanto executa esta parte do movimento e segure a contração no topo por um segundo. <li> Agora, ao inspirar, abaixe lentamente as pernas para a posição inicial.</li> </ol> <h3> Variações: </h3> Você também pode realizar este exercício no chão em cima de um tapete de exercícios.Você também pode adicionar peso, segurando um haltere entre os pés como você ficar mais avançado."
+        },
+        {
+          "language_name": "russian",
+          "exercise_title": "Взвешенная Crunch",
+          "exercise_detail": "<h3> Шаги: </h3> <ol> <li> Ли с спине плашмя на скамейке, держать некоторый вес на груди и ногах продлен перед вами с конца <li> Положите руки либо. под тяжестью или под вашими ягодицами или скамейке. Это будет ваша стартовая позиция. <li> Как вы держите ваши ноги продлен, прямые, как это возможно с колени слегка согнуты, но заперта поднимите ноги, пока они не делают угол 90 градусов с пол. Выдохните, как вы выполняете эту часть движения и удерживать сокращение на вершине в течение секунды. <li> Теперь, когда вы вдыхаете, медленно опустите ноги обратно вниз в исходное положение. </li></ol> <h3> Варианты: </h3> вы также можете выполнять это упражнение на полу поверх мата упражнений вы можете также добавить вес, удерживая гантель между ногами, как вы получите более продвинутые "
+        },
+        {
+          "language_name": "arabic",
+          "exercise_title": " رفع الساق المرجحة",
+          "exercise_detail": "<h3> الخطوات التالية: </h3> <ol> <li> استلقي بظهرتك على مقعد، واحمل بعض الوزن على صدرك وساقيك امتدت أمامك من النهاية. <li> ضع يديك إما تحت الوزن أو تحت غلوتيس أو مقاعد البدلاء. وسوف يكون هذا الموقف البداية. <li> كما يمكنك الحفاظ على ساقيك الموسعة، على التوالي ممكن مع ركبتيك عازمة قليلا ولكن مقفل رفع ساقيك حتى جعل زاوية 90 درجة مع الأرض. الزفير كما كنت أداء هذا الجزء من الحركة وعقد الانكماش في الجزء العلوي لمدة ثانية. <li> الآن، كما كنت يستنشق، ببطء خفض ساقيك تراجع إلى نقطة البداية. </ol> <h3> الاختلافات: </h3> يمكنك أيضا تنفيذ هذا التمرين على الأرض أعلى حصيرة التمرين. يمكنك أيضا إضافة الوزن من خلال عقد الدمبل بين قدميك كما تحصل على أكثر تقدما."
+        },
+        {
+          "language_name": "spanish",
+          "exercise_title": "Levantamiento de Pierna Ponderado",
+          "exercise_detail": "<h3> Pasos: </h3> <ol> <li> Acuéstese con la espalda sobre un banco, sostenga un poco de peso en el pecho y las piernas extendidas delante de usted al final. <li> Coloque las manos bajo el peso o debajo de los glúteos o el banco. Esta será su posición inicial. <li> Mientras mantiene las piernas extendidas, lo más derecho posible con las rodillas ligeramente dobladas pero bloqueadas levante las piernas hasta que hagan un ángulo de 90 grados con el piso. Exhale mientras realiza esta parte del movimiento y mantenga la contracción en la parte superior durante un segundo. <li> Ahora, mientras inhala, baje lentamente las piernas hacia abajo hasta la posición inicial. </ H> <h3> Variaciones: </h3> También puede realizar este ejercicio en el suelo sobre una estera de ejercicio. Usted puede también agregar el peso sosteniendo una mancuerna entre sus pies como usted consigue más avanzado."
+        }
+      ]
+    }
+  ]
+}
