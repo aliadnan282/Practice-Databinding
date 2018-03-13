@@ -9,37 +9,37 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 
 import com.workout.sixpacksabs.R;
-import com.workout.sixpacksabs.data.entity.Category;
-import com.workout.sixpacksabs.databinding.ActivityMainBinding;
-import com.workout.sixpacksabs.view.adapter.CategoryAdapter;
-import com.workout.sixpacksabs.viewmodel.CategoryViewModel;
+import com.workout.sixpacksabs.data.entity.PlanDays;
+import com.workout.sixpacksabs.databinding.ActivityDaysBinding;
+import com.workout.sixpacksabs.view.adapter.DaysAdapter;
+import com.workout.sixpacksabs.viewmodel.PlanDaysViewModel;
 
 import java.util.List;
 
-public class MainActivity extends AppCompatActivity {
+public class DaysActivity extends AppCompatActivity {
 
-    private static final String TAG = MainActivity.class.getSimpleName();
-    ActivityMainBinding activityMainBinding;
-    CategoryAdapter categoryAdapter;
-    CategoryViewModel categoryViewModel;
+    private static final String TAG = DaysActivity.class.getSimpleName();
+    ActivityDaysBinding activityDaysBinding;
+    DaysAdapter daysAdapter;
+    PlanDaysViewModel planDaysViewModel;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        activityMainBinding = DataBindingUtil.setContentView(this, R.layout.activity_main);
-        activityMainBinding.rvCategory.setLayoutManager(new LinearLayoutManager(this));
-        categoryAdapter = new CategoryAdapter(this);
-        activityMainBinding.rvCategory.setAdapter(categoryAdapter);
+        activityDaysBinding = DataBindingUtil.setContentView(this, R.layout.activity_days);
+        activityDaysBinding.rvCategory.setLayoutManager(new LinearLayoutManager(this));
+        daysAdapter = new DaysAdapter(this);
+        activityDaysBinding.rvCategory.setAdapter(daysAdapter);
 
         // Get a new or existing ViewModel from the ViewModelProvider.
-        categoryViewModel = ViewModelProviders.of(this).get(CategoryViewModel.class);
+        planDaysViewModel = ViewModelProviders.of(this).get(PlanDaysViewModel.class);
         // Add an observer on the LiveData returned by getAlphabetizedWords.
         // The onChanged() method fires when the observed data changes and the activity is
         // in the foreground.
-        categoryViewModel.getAllCategories().observe(this, new Observer<List<Category>>() {
+        planDaysViewModel.getAllPlanDays().observe(this, new Observer<List<PlanDays>>() {
             @Override
-            public void onChanged(@Nullable List<Category> categories) {
-                categoryAdapter.setCategories(categories);
+            public void onChanged(@Nullable List<PlanDays> planDays) {
+                daysAdapter.setPlanDays(planDays);
             }
         });
 

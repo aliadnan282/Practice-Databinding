@@ -25,7 +25,7 @@ public interface CategoryDao {
     Category findByType(String type);
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
-    void insertAllCategory(Category... categories);
+    void insertCategory(Category... categories);
 
     @Delete
     void deleteCategory(Category categories);

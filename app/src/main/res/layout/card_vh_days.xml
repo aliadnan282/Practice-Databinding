@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="planDays"
+            type="com.workout.sixpacksabs.data.entity.PlanDays" />
+
+        <variable
+            name="adapter"
+            type="com.workout.sixpacksabs.view.adapter.DaysAdapter" />
+
+        <!--   <variable
+               android:onClick="@{() -> handler.onCategoryClicked(category)}"
+
+               name="handler"
+               type="com.workout.sixpackabs.binder.MyHandler" />-->
+    </data>
+
+    <android.support.v7.widget.CardView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:contentPadding="@dimen/_5dp"
+        app:cardUseCompatPadding="true">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="@{(theView) -> adapter.onPlanDaysClicked(theView,planDays)}"
+            tools:layout_editor_absoluteY="81dp">
+            <!--android:onClick="@{handler::onClickTextShow}"-->
+
+            <ImageView
+                android:id="@+id/iv_category"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/text_nstruction"
+                android:scaleType="fitCenter"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                android:src="@mipmap/ic_launcher_round" />
+
+            <TextView
+                android:id="@+id/category_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/oxygen_bold"
+                android:text="@{String.format(@string/days_text,planDays.dayNumber)}"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textSize="24sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/iv_category"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:text="@tools:sample/first_names" />
+        </android.support.constraint.ConstraintLayout>
+    </android.support.v7.widget.CardView>
+</layout>

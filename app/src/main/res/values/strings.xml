@@ -2,4 +2,7 @@
     <string name="app_name">Six Packs Latest</string>
     <string name="text_nstruction">Instruction</string>
     <string name="text_start">Start</string>
+    <string name="left_days">%1$d Days left</string>
+    <string name="days_text">Day %1$d </string>
+
 </resources>
