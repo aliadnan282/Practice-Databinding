@@ -25,6 +25,10 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
 }
 
 dependencies {
@@ -36,7 +40,6 @@ dependencies {
     implementation supportDependencies.design
     implementation supportDependencies.multidex
     implementation supportDependencies.constraintLayout
-
     // Parcing and image loading
     implementation supportDependencies.gson
     implementation supportDependencies.stetho
@@ -45,16 +48,15 @@ dependencies {
     implementation 'com.google.firebase:firebase-storage:11.0.4'
     implementation 'com.google.firebase:firebase-auth:11.0.4'
     implementation 'com.google.firebase:firebase-database:11.0.4'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
     annotationProcessor supportDependencies.glideCompiler
-
     // Databinding and architecture component
     implementation supportDependencies.viewModelLiveData
     annotationProcessor supportDependencies.archCompiler
     implementation supportDependencies.room
     annotationProcessor supportDependencies.roomCompiler
-
-
 }
+
 
 
 

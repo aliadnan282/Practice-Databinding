@@ -14,7 +14,7 @@ public class AppConstant {
     public static final String WORKOUT_RECOMENDED_PATH = "workout_json/recomended.json";
     public static final String WRITE_CUSTOM_JSON_PATH = "custom.json";
     public static final String FRUIT_JSON_PATH = "workout_json/fruits.json";
-    public static final String EXERCISE_JSON_PATH = "workout_json/butt/exercises.json";
+    public static final String EXERCISE_JSON_PATH = "workout_json/hard_abs/exercises.json";
     public static final String CATEGORY_JSON_PATH = "workout_json/categories.json";
     public static final String WRITE_GRAPH_FILE_PATH = "gaph.txt";
     public static final int REQ_BELLY = 312;

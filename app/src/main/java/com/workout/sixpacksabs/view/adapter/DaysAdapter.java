@@ -1,6 +1,7 @@
 package com.workout.sixpacksabs.view.adapter;
 
 import android.content.Context;
+import android.content.Intent;
 import android.databinding.DataBindingUtil;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
@@ -12,6 +13,7 @@ import android.widget.Toast;
 import com.workout.sixpacksabs.R;
 import com.workout.sixpacksabs.data.entity.PlanDays;
 import com.workout.sixpacksabs.databinding.CardVhDaysBinding;
+import com.workout.sixpacksabs.view.activity.ExerciseListActivity;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -24,8 +26,10 @@ public class DaysAdapter extends RecyclerView.Adapter<DaysAdapter.VHCategory> {
     private static final String TAG = DaysAdapter.class.getSimpleName();
     LayoutInflater inflater;
     private List<PlanDays> categoryList = new ArrayList<>();
+    Context context;
 
     public DaysAdapter(Context context) {
+        this.context=context;
         inflater = LayoutInflater.from(context);
     }
 
@@ -45,6 +49,7 @@ public class DaysAdapter extends RecyclerView.Adapter<DaysAdapter.VHCategory> {
 
     public void onPlanDaysClicked(View view, PlanDays categoryModel) {
         Log.d(TAG, "onCategoryClicked: ");
+        context.startActivity(new Intent(context, ExerciseListActivity.class));
         Toast.makeText(view.getContext(), "" + categoryModel.getDayNumber(), Toast.LENGTH_SHORT).show();
 
     }

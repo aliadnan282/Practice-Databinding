@@ -4,5 +4,7 @@
     <string name="text_start">Start</string>
     <string name="left_days">%1$d Days left</string>
     <string name="days_text">Day %1$d </string>
+    <string name="start_text">START</string>
+    <string name="text_ready_to">Ready to go</string>
 
 </resources>
