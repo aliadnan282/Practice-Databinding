@@ -12,7 +12,7 @@ buildscript {
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
-        classpath 'com.google.gms:google-services:3.1.0'
+        classpath 'com.google.gms:google-services:3.1.1'
     }
 }
 
@@ -23,17 +23,17 @@ allprojects {
     }
     ext {
         google_play_services_library = '11.8.0'
-        google_support_library = '27.1.0'
-        androidBuildToolsVersion = "27.1.0"
-
-        multidex_library = '1.0.3'
-        gson_library = '2.8.1'
-        glide_library = '4.6.1'
-        picasso_library = '2.71828'
         constraint_library = '1.0.2'
+        google_support_library = '27.1.0'
+        multidex_library = '1.0.3'
+
+        gson_library = '2.8.1'
+        // glide_library = '4.6.1'
+        picasso_library = '2.71828'
         arc_component_library = '1.1.0'
         room_component_library = '1.0.0'
 
+        androidBuildToolsVersion = "27.1.0"
         androidApplicationId = 'com.workout.sixpackab'
         androidMinSdkVersion = 16
         androidTargetSdkVersion = 26
@@ -58,12 +58,17 @@ allprojects {
                 // Room  room_component_library
                 room             : "android.arch.persistence.room:runtime:${room_component_library}",
                 roomCompiler     : "android.arch.persistence.room:compiler:${room_component_library}",
+                // Firebase
+                firebaseDatabase:"com.google.firebase:firebase-database:${google_play_services_library}",
+                firebaseStorage:"com.google.firebase:firebase-storage:${google_play_services_library}",
+                firebaseAuth:"com.google.firebase:firebase-auth:${google_play_services_library}",
+
                 // Gson encoding and decoding
                 gson             : "com.google.code.gson:gson:${gson_library}",
                 picasso          : "com.squareup.picasso:picasso:${picasso_library}",
                 stetho           : "com.facebook.fresco:stetho:1.8.1",
-                glide            : "com.github.bumptech.glide:glide:${glide_library}",
-                glideCompiler    : "com.github.bumptech.glide:compiler:${glide_library}"
+                // glide            : "com.github.bumptech.glide:glide:${glide_library}",
+                // glideCompiler    : "com.github.bumptech.glide:compiler:${glide_library}"
         ]
     }
 }

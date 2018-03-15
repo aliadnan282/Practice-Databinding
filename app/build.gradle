@@ -43,21 +43,16 @@ dependencies {
     // Parcing and image loading
     implementation supportDependencies.gson
     implementation supportDependencies.stetho
-    implementation supportDependencies.glide
     implementation supportDependencies.picasso
-    implementation 'com.google.firebase:firebase-storage:11.0.4'
-    implementation 'com.google.firebase:firebase-auth:11.0.4'
-    implementation 'com.google.firebase:firebase-database:11.0.4'
-    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
-    annotationProcessor supportDependencies.glideCompiler
+    // Firebase
+    implementation supportDependencies.firebaseDatabase
+    implementation supportDependencies.firebaseAuth
+    implementation supportDependencies.firebaseStorage
     // Databinding and architecture component
     implementation supportDependencies.viewModelLiveData
     annotationProcessor supportDependencies.archCompiler
     implementation supportDependencies.room
     annotationProcessor supportDependencies.roomCompiler
 }
-
-
-
 
 apply plugin: 'com.google.gms.google-services'
